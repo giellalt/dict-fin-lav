@@ -1,87 +1,928 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-  <e> <lg> <l pos="Pron">-mme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">-ni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">-nne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">-nsa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">-nsä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">-si</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">ei kukaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">neviens</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">ei yksikään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">neviens</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">erikoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">īpašs</t> <t pos="">sevišķs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">erillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">atsevišķs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">he</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"><t pos="">viņi</t> <t pos="">viņi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">viņš</t> <t pos="">tas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">pats</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">itse-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">katrs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kas</t> <t pos="">kurš</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kas (par dzīvām būtnēm)</t> <t pos="">kurš (par dzīvām būtnēm)</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joka ainoa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">ikviens</t> <t pos="">katrs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joka ikinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">ikviens</t> <t pos="">katrs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jokainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">katrs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jokainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">ikviens</t> <t pos="">katrs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jokin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kaut kas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">dažs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jokunen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">dažs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jompikumpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">dažs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">jotakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kaut kas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">kaikki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">visi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">koska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">uz cikiem</t> <t pos="">cikos</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">kuka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kas</t> <t pos="">kurš</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">kuka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kas (par dzīvām būtnēm)</t> <t pos="">kurš (par dzīvām būtnēm)</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">kumpikin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"><t pos="">katrs (no abiem)</t> <t pos="">katrs (no abiem)</t> <t pos="">abi divi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">mēs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">mihin aikaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">uz cikiem</t> <t pos="">cikos</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">mikin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kaut kas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">mikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"><t pos="">kas</t> <t pos="">kurš</t> <t pos="">kas (par nedzīvām būtnēm)</t> <t pos="">kurš (par nedzīvām būtnēm)</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">milloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">uz cikiem</t> <t pos="">cikos</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">minä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">es</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">mitäkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kaut kas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">moinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds</t> <t pos="">tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">molemmat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">katrs (no abiem)</t> <t pos="">abi divi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">molemmat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">abi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">monenlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">mones</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kurš</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">monesko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">kurš</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">moni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">vairāki</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">moni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">vairāki</t> <t pos="">daudz</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">moni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">vairāki</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">monta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">cik</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">montako</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">cik</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">muu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">cits</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">muut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">citi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">muutama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">dažs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">muutama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">vairāki</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">mä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">es</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">nämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šie</t> <t pos="">tie</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">oma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">savs</t> <t pos="">paša</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">paljon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">vairāki</t> <t pos="">daudz</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">viens</t> <t pos="">vienots</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tas pats</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">samanlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tāds pats</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">se</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">viņš</t> <t pos="">tas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">se sama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tas pats</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sellainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds</t> <t pos="">tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sellainen ja tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">semmoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds</t> <t pos="">tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sinä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tu</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sitä kaikkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">to visu</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">sä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tu</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">te</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">jūs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">cits</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">toinen toisensa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">viens otru</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">toinen toistensa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">viens otru</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">toiset</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">citi</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">tuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šis</t> <t pos="">tas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">tuollainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds</t> <t pos="">tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šāds</t> <t pos="">tāds</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">tämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">šis</t> <t pos="">tas</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">tämä sama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tas pats</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">usea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">vairāki</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">yksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">viens</t> <t pos="">vienots</t> </tg> </mg> </e>
-  <e> <lg> <l pos="Pron">yksilöllinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">īpašs</t> <t pos="">sevišķs</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="Pron">-mme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">-ni</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">-nne</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">-nsa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">-nsä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">-si</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ei kukaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">neviens</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ei yksikään</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">neviens</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">erikoinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">īpašs</t>
+       <t pos="">sevišķs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">erillinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">atsevišķs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">he</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viņi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hän</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viņš</t>
+       <t pos="">tas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">pats</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">katrs</t>
+       <t pos="">kas</t>
+       <t pos="">kurš</t>
+       <t pos="">kas (par dzīvām būtnēm)</t>
+       <t pos="">kurš (par dzīvām būtnēm)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka ainoa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ikviens</t>
+       <t pos="">katrs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka ikinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ikviens</t>
+       <t pos="">katrs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">katrs</t>
+       <t pos="">ikviens</t>
+       <t pos="">katrs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kaut kas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kāds</t>
+       <t pos="">dažs</t>
+       <t pos="">kāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokunen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">dažs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompikumpi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">dažs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jonkinlainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jotakin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kaut kas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kaikki</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">visi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">koska</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">uz cikiem</t>
+       <t pos="">cikos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kas</t>
+       <t pos="">kurš</t>
+       <t pos="">kas (par dzīvām būtnēm)</t>
+       <t pos="">kurš (par dzīvām būtnēm)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpikin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">katrs (no abiem)</t>
+       <t pos="">abi divi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">me</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">mēs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mihin aikaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">uz cikiem</t>
+       <t pos="">cikos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kaut kas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kas</t>
+       <t pos="">kurš</t>
+       <t pos="">kas (par nedzīvām būtnēm)</t>
+       <t pos="">kurš (par nedzīvām būtnēm)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">milloin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">uz cikiem</t>
+       <t pos="">cikos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">minä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">es</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mitäkin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kaut kas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">moinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds</t>
+       <t pos="">tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">molemmat</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">katrs (no abiem)</t>
+       <t pos="">abi divi</t>
+       <t pos="">abi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monenlainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kurš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monesko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kurš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">moni</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">vairāki</t>
+       <t pos="">daudz</t>
+       <t pos="">vairāki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">cik</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">montako</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">cik</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">cits</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muut</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">citi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muutama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">dažs</t>
+       <t pos="">vairāki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">es</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šie</t>
+       <t pos="">tie</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">oma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">savs</t>
+       <t pos="">paša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">paljon</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">vairāki</t>
+       <t pos="">daudz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viens</t>
+       <t pos="">vienots</t>
+       <t pos="">tas pats</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">samanlainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tāds pats</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viņš</t>
+       <t pos="">tas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se sama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tas pats</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sellainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds</t>
+       <t pos="">tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sellainen ja tällainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">semmoinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds</t>
+       <t pos="">tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sinä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sitä kaikkea</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">to visu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">te</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">jūs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">cits</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen toisensa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viens otru</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen toistensa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viens otru</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toiset</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">citi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šis</t>
+       <t pos="">tas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuollainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds</t>
+       <t pos="">tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tällainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šāds</t>
+       <t pos="">tāds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">šis</t>
+       <t pos="">tas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä sama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tas pats</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">usea</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">vairāki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">yksi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">viens</t>
+       <t pos="">vienots</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">yksilöllinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">īpašs</t>
+       <t pos="">sevišķs</t>
+     </tg>
+   </mg>
+</e>
 </r>

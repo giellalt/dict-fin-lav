@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-  <e> <lg> <l pos="CC">ei ... ei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">ne ..., ne</t> </tg> </mg> </e>
-  <e> <lg> <l pos="CC">ei ... eikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">ne ..., ne</t> </tg> </mg> </e>
-  <e> <lg> <l pos="CC">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">un</t> </tg> </mg> </e>
-  <e> <lg> <l pos="CC">mutta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">bet</t> </tg> </mg> </e>
-  <e> <lg> <l pos="CC">vaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">tikai</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="CC">ei ... ei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ne ..., ne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ei ... eikä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ne ..., ne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">un</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">mutta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">bet</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tikai</t>
+     </tg>
+   </mg>
+</e>
 </r>

@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-  <e> <lg> <l pos="V">joutua jonkun kynsiin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">nonākt nagos</t> </tg> </mg> </e>
-  <e> <lg> <l pos="V">olla jonkun kynsissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">būs nagos</t> </tg> </mg> </e>
-  <e> <lg> <l pos="V">pelastua jonkun kynsistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="">izkļūt no nagiem</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="V">joutua jonkun kynsiin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">nonākt nagos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">olla jonkun kynsissä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">būs nagos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">pelastua jonkun kynsistä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">izkļūt no nagiem</t>
+     </tg>
+   </mg>
+</e>
 </r>

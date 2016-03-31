@@ -1,15 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-  <e> <lg> <l pos="N" type="Prop">Iso karhu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Lielie greizie rati</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Jelgavan maakunta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Jelgavas apriņķis</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Jumalan Karitsa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Dieva jērs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Kolkan niemi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Kolkasrags</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Liivin kulttuurikeskus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Lībiešu kultūras centrs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Pieni karhu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Mazie greizie rati</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Punainen Risti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Sarkanais Krusts</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Riikaan saakka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">līdz Rīgai</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Sīkrõgin kylän asukas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Sīkraga iedzīvotājs</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Uusi testamentti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Jaunā Derība</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Vanha testamentti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Vecā Derība</t> </tg> </mg> </e>
-  <e> <lg> <l pos="N" type="Prop">Ventspilsin maakunta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="lav"> <t pos="N" type="Prop">Ventspils apriņķis</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Iso karhu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Lielie greizie rati</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jelgavan maakunta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Jelgavas apriņķis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jumalan Karitsa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Dieva jērs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kolkan niemi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Kolkasrags</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Liivin kulttuurikeskus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Lībiešu kultūras centrs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pieni karhu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Mazie greizie rati</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Punainen Risti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Sarkanais Krusts</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Riikaan saakka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">līdz Rīgai</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sīkrõgin kylän asukas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Sīkraga iedzīvotājs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uusi testamentti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Jaunā Derība</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vanha testamentti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Vecā Derība</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ventspilsin maakunta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="N" type="Prop">Ventspils apriņķis</t>
+     </tg>
+   </mg>
+</e>
 </r>

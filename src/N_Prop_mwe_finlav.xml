@@ -86,25 +86,13 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Riikaan saakka</l>
+     <l pos="N">Riianlahti</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="N" type="Prop">līdz Rīgai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" type="Prop">Sīkrõgin kylän asukas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="N" type="Prop">Sīkraga iedzīvotājs</t>
+       <t pos="">Rīgas līcis</t>
      </tg>
    </mg>
 </e>

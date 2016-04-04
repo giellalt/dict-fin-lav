@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-<e>
-   <lg>
-     <l pos="A">-alainen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">apakša</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">-kasvuinen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">augums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">-takainen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aiz-</t>
-     </tg>
-   </mg>
-</e>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+
 <e>
    <lg>
      <l pos="A">-aikainen</l>
@@ -1196,6 +1171,8 @@
      <tg xml:lang="lav">
        <t pos="">cienīts</t>
        <t pos="">godāts</t>
+       <t pos="">cienīts</t>
+       <t pos="">godāts</t>
      </tg>
    </mg>
 </e>
@@ -1207,6 +1184,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">cienījams</t>
+       <t pos="">godājams</t>
        <t pos="">cienījams</t>
        <t pos="">godājams</t>
        <t pos="">vērtīgs</t>
@@ -1678,6 +1657,8 @@
        <t pos="">agrākais</t>
        <t pos="">iepriekšējs</t>
        <t pos="">kādreizējs</t>
+       <t pos="">iepriekšējs</t>
+       <t pos="">kādreizējs</t>
      </tg>
    </mg>
 </e>
@@ -2029,6 +2010,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">nākošais</t>
+       <t pos="">nākamais</t>
        <t pos="">nākošais</t>
        <t pos="">nākamais</t>
      </tg>
@@ -3549,6 +3532,8 @@
      <tg xml:lang="lav">
        <t pos="">spožs</t>
        <t pos="">spilgts</t>
+       <t pos="">spožs</t>
+       <t pos="">spilgts</t>
      </tg>
    </mg>
 </e>
@@ -3686,11 +3671,15 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>tuoksu</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_KǬRAND" pos="A">smǭršig</t>
-       <re>tuoksu</re>
+       <t pos="">smaržīgs</t>
+       <re>par smaržu</re>
+       </tCtn>
+       <tCtn>
+       <t pos="">garšīgs</t>
+       <re>par smaržu</re>
        </tCtn>
      </tg>
    </mg>
@@ -3954,6 +3943,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">jautrs</t>
+       <t pos="">lustīgs</t>
        <t pos="">jautrs</t>
        <t pos="">lustīgs</t>
      </tg>
@@ -4402,12 +4393,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="A_AʼBLI" pos="A">skǭrgiļi</t>
-       <re>vaateesta, tekstiilistä</re>
-       </tCtn>
+   <mg> <defNative>vaateesta, tekstiilistä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">skrandains</t>
      </tg>
    </mg>
 </e>
@@ -4576,11 +4564,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>ääni</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_PADĀ" pos="A">gorā</t>
-       <re>ääni</re>
+       <t pos="">ļoti zema</t>
+       <re>balss</re>
        </tCtn>
      </tg>
    </mg>
@@ -4874,6 +4862,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">nekaunīgs</t>
+       <t pos="">bezkaunīgs</t>
        <t pos="">nekaunīgs</t>
        <t pos="">bezkaunīgs</t>
      </tg>
@@ -5423,12 +5413,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="A_APPÕN" pos="A">irrõn</t>
-       <re>hampaista</re>
-       </tCtn>
+   <mg> <defNative>hampaista</defNative>
+     <tg xml:lang="lav">
+       <t pos="">atņirgts</t>
      </tg>
    </mg>
 </e>
@@ -6035,6 +6022,8 @@
      <tg xml:lang="lav">
        <t pos="">stīvs</t>
        <t pos="">sastindzis</t>
+       <t pos="">stīvs</t>
+       <t pos="">sastindzis</t>
      </tg>
    </mg>
 </e>
@@ -6046,6 +6035,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">stīvs</t>
+       <t pos="">sastindzis</t>
        <t pos="">stīvs</t>
        <t pos="">sastindzis</t>
        <t pos="">stīvs</t>
@@ -6597,6 +6588,8 @@
      <tg xml:lang="lav">
        <t pos="">stīvs</t>
        <t pos="">sastindzis</t>
+       <t pos="">stīvs</t>
+       <t pos="">sastindzis</t>
      </tg>
    </mg>
 </e>
@@ -7115,15 +7108,23 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">liess</t>
        <t pos="">vājš</t>
        <t pos="">nespēcīgs</t>
        <t pos="">vārgs</t>
-       <tCtn>
-       <t Contlex="A_AʼBLI" pos="A">skǭrgiļi</t>
-       <re>vaateesta, tekstiilistä</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kehno</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>vaateesta, tekstiilistä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">skrandains</t>
      </tg>
    </mg>
 </e>
@@ -7848,6 +7849,8 @@
        <t pos="">dzidrs</t>
        <t pos="">spožs</t>
        <t pos="">spilgts</t>
+       <t pos="">spožs</t>
+       <t pos="">spilgts</t>
      </tg>
    </mg>
 </e>
@@ -8550,11 +8553,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>merenpinnasta</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_KALĀ" pos="A">bolā</t>
-       <re>merenpinnasta</re>
+       <t pos="">augsts, uzplūdis</t>
+       <re>par jūru</re>
        </tCtn>
      </tg>
    </mg>
@@ -9189,6 +9192,8 @@
      <tg xml:lang="lav">
        <t pos="">cienījams</t>
        <t pos="">godājams</t>
+       <t pos="">cienījams</t>
+       <t pos="">godājams</t>
      </tg>
    </mg>
 </e>
@@ -9200,6 +9205,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">cienīts</t>
+       <t pos="">godāts</t>
        <t pos="">cienīts</t>
        <t pos="">godāts</t>
      </tg>
@@ -10759,14 +10766,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">glums</t>
        <t pos="">gļotains</t>
        <t pos="">dūņains</t>
-       <tCtn>
-       <t Contlex="A_TŪĻI" pos="A">siļgi</t>
-       <re>ihminen</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">limainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>ihminen</defNative>
+     <tg xml:lang="lav">
+       <t pos="">siekalains</t>
      </tg>
    </mg>
 </e>
@@ -11821,15 +11836,23 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">rupjš</t>
        <t pos="">zems</t>
        <t pos="">sekls</t>
        <t pos="">zems</t>
-       <tCtn>
-       <t Contlex="A_VIĻȚ" pos="A">rīț</t>
-       <re>vesi</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">matala</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>vesi</defNative>
+     <tg xml:lang="lav">
+       <t pos="">sekls</t>
      </tg>
    </mg>
 </e>
@@ -13609,6 +13632,8 @@
      <tg xml:lang="lav">
        <t pos="">drūms</t>
        <t pos="">īgns</t>
+       <t pos="">drūms</t>
+       <t pos="">īgns</t>
      </tg>
    </mg>
 </e>
@@ -13949,6 +13974,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">labais</t>
+       <t pos="">labās puses</t>
        <t pos="">labais</t>
        <t pos="">labās puses</t>
      </tg>
@@ -14502,14 +14529,25 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">resns</t>
        <t pos="">biezs</t>
        <t pos="">rupjš</t>
        <t pos="">biezs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">paksu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>materiaali</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_SIELDÕ" pos="A">sangdõ</t>
-       <re>materiaali</re>
+       <t pos="">biezs</t>
+       <re>materiāls</re>
        </tCtn>
      </tg>
    </mg>
@@ -15657,11 +15695,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>leivästä</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_TŪĻI" pos="A">nätski</t>
-       <re>leivästä</re>
+       <t pos="">pajēls</t>
+       <re>par maizi</re>
        </tCtn>
      </tg>
    </mg>
@@ -16431,13 +16469,24 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">mierīgs</t>
        <t pos="">lēnīgs</t>
        <t pos="">mierīgs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rauhallinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>hevonen</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_NÕTKĀZ" pos="A">līngaz</t>
-       <re>hevonen</re>
+       <t pos="">mierīgs</t>
+       <re>zirgs</re>
        </tCtn>
      </tg>
    </mg>
@@ -16608,6 +16657,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">jautrs</t>
+       <t pos="">lustīgs</t>
        <t pos="">jautrs</t>
        <t pos="">lustīgs</t>
      </tg>
@@ -16796,6 +16847,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">drošs</t>
+       <t pos="">brašs</t>
        <t pos="">drošs</t>
        <t pos="">brašs</t>
        <t pos="">drosmīgs</t>
@@ -16994,12 +17047,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="A_AʼBLI" pos="A">sēmḑali</t>
-       <re>lehmä</re>
-       </tCtn>
+   <mg> <defNative>lehmä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">pienīgs</t>
      </tg>
    </mg>
 </e>
@@ -17419,11 +17469,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">biezs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sakea</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>neste</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_SIELDÕ" pos="A">sangdõ</t>
-       <re>neste</re>
+       <t pos="">biezs</t>
+       <re>šķidrums</re>
        </tCtn>
      </tg>
    </mg>
@@ -18032,6 +18093,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">nākošais</t>
+       <t pos="">nākamais</t>
        <t pos="">nākošais</t>
        <t pos="">nākamais</t>
      </tg>
@@ -20622,11 +20685,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>hevonen</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_PUʼNNI" pos="A">siʼņņi</t>
-       <re>hevonen</re>
+       <t pos="">zils sirmis</t>
+       <re>zirgs</re>
        </tCtn>
      </tg>
    </mg>
@@ -20713,6 +20776,8 @@
        <t pos="">gaidāms</t>
        <t pos="">nākošais</t>
        <t pos="">nākamais</t>
+       <t pos="">nākošais</t>
+       <t pos="">nākamais</t>
      </tg>
    </mg>
 </e>
@@ -20754,6 +20819,8 @@
      <tg xml:lang="lav">
        <t pos="">melnīgsnējs</t>
        <t pos="">melngans</t>
+       <t pos="">melnīgsnējs</t>
+       <t pos="">melngans</t>
      </tg>
    </mg>
 </e>
@@ -20767,6 +20834,8 @@
      <tg xml:lang="lav">
        <t pos="">melnīgsnējs</t>
        <t pos="">melngans</t>
+       <t pos="">melnīgsnējs</t>
+       <t pos="">melngans</t>
      </tg>
    </mg>
 </e>
@@ -20776,11 +20845,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>hevosväri</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="A_PADĀ" pos="A">dumā</t>
-       <re>hevosväri</re>
+       <t pos="">tumši brūns</t>
+       <re>zirgs</re>
        </tCtn>
      </tg>
    </mg>
@@ -21621,6 +21690,8 @@
        <t pos="">brangs</t>
        <t pos="">drošs</t>
        <t pos="">brašs</t>
+       <t pos="">drošs</t>
+       <t pos="">brašs</t>
        <t pos="">drosmīgs</t>
        <t pos="">drošsirdīgs</t>
      </tg>
@@ -21830,6 +21901,12 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">stiprs</t>
+       <t pos="">spēcīgs</t>
+       <t pos="">stiprs</t>
+       <t pos="">spēcīgs</t>
+       <t pos="">stiprs</t>
+       <t pos="">spēcīgs</t>
        <t pos="">stiprs</t>
        <t pos="">spēcīgs</t>
        <t pos="">stiprs</t>
@@ -22218,6 +22295,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">drošs</t>
+       <t pos="">brašs</t>
        <t pos="">drošs</t>
        <t pos="">brašs</t>
        <t pos="">noteikts</t>
@@ -23177,6 +23256,12 @@
      <tg xml:lang="lav">
        <t pos="">stiprs</t>
        <t pos="">spēcīgs</t>
+       <t pos="">stiprs</t>
+       <t pos="">spēcīgs</t>
+       <t pos="">stiprs</t>
+       <t pos="">spēcīgs</t>
+       <t pos="">stiprs</t>
+       <t pos="">spēcīgs</t>
      </tg>
    </mg>
 </e>
@@ -24104,6 +24189,8 @@
      <tg xml:lang="lav">
        <t pos="">īgns</t>
        <t pos="">nīgrs</t>
+       <t pos="">drūms</t>
+       <t pos="">īgns</t>
        <t pos="">drūms</t>
        <t pos="">īgns</t>
      </tg>

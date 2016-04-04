@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+
 <e>
    <lg>
      <l pos="Adv">-han</l>
@@ -58,6 +69,8 @@
      <tg xml:lang="lav">
        <t pos="">-reiz</t>
        <t pos="">-kārtīgi</t>
+       <t pos="">-reiz</t>
+       <t pos="">-kārtīgi</t>
      </tg>
    </mg>
 </e>
@@ -95,105 +108,6 @@
      <tg xml:lang="lav">
        <t pos="">dzimis</t>
        <t pos="">pēc dzimšanas</t>
-     </tg>
-   </mg>
-</e>
-
-<e>
-   <lg>
-     <l pos="Adv">aiheetta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">velti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">enemmän</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vairāk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">samantekevää</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kaut</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">sinnepäin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">turp</t>
-       <t pos="">uz to pusi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">suotta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">velti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">syyttä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">velti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">tuonnepäin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">turp</t>
-       <t pos="">uz to pusi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">turhaan</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">velti</t>
      </tg>
    </mg>
 </e>
@@ -344,6 +258,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">visai bieži</t>
+       <t pos="">nereti</t>
        <t pos="">visai bieži</t>
        <t pos="">nereti</t>
      </tg>
@@ -997,6 +913,10 @@
      <tg xml:lang="lav">
        <t pos="">priekšā</t>
        <t pos="">pa priekšu</t>
+       <t pos="">priekšā</t>
+       <t pos="">pa priekšu</t>
+       <t pos="">priekšā</t>
+       <t pos="">pa priekšu</t>
      </tg>
    </mg>
 </e>
@@ -1008,6 +928,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">priekšā</t>
+       <t pos="">pa priekšu</t>
        <t pos="">priekšā</t>
        <t pos="">pa priekšu</t>
        <t pos="">priekšgalā</t>
@@ -1955,6 +1877,8 @@
        <t pos="">tūlīt</t>
        <t pos="">tūliņ</t>
        <t pos="">tūlīt</t>
+       <t pos="">tūliņ</t>
+       <t pos="">tūlīt</t>
        <t pos="">uzreiz</t>
        <t pos="">tūlīt</t>
      </tg>
@@ -1969,6 +1893,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">tikko</t>
+       <t pos="">tik drīz</t>
+       <t pos="">tiklīdz</t>
        <t pos="">tik drīz</t>
        <t pos="">tiklīdz</t>
      </tg>
@@ -1994,6 +1920,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">mazliet</t>
+       <t pos="">drusku</t>
        <t pos="">mazliet</t>
        <t pos="">drusku</t>
      </tg>
@@ -2744,6 +2672,8 @@
        <t pos="">trūkst</t>
        <t pos="">vaļā</t>
        <t pos="">at-</t>
+       <t pos="">vaļā</t>
+       <t pos="">at-</t>
      </tg>
    </mg>
 </e>
@@ -3012,6 +2942,8 @@
      <tg xml:lang="lav">
        <t pos="">kādreiz</t>
        <t pos="">kaut kad</t>
+       <t pos="">kādreiz</t>
+       <t pos="">kaut kad</t>
      </tg>
    </mg>
 </e>
@@ -3050,6 +2982,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">kādreiz</t>
+       <t pos="">kaut kad</t>
        <t pos="">kādreiz</t>
        <t pos="">kaut kad</t>
        <t pos="">reiz</t>
@@ -3847,6 +3781,8 @@
      <tg xml:lang="lav">
        <t pos="">rūgti</t>
        <t pos="">sūri</t>
+       <t pos="">rūgti</t>
+       <t pos="">sūri</t>
      </tg>
    </mg>
 </e>
@@ -3907,6 +3843,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">rūgti</t>
+       <t pos="">sūri</t>
        <t pos="">rūgti</t>
        <t pos="">sūri</t>
      </tg>
@@ -5216,6 +5154,10 @@
        <t pos="">taču</t>
        <t pos="">tomēr</t>
        <t pos="">taču</t>
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
      </tg>
    </mg>
 </e>
@@ -5307,6 +5249,8 @@
      <tg xml:lang="lav">
        <t pos="">apkārt</t>
        <t pos="">otrādi</t>
+       <t pos="">apkārt</t>
+       <t pos="">otrādi</t>
      </tg>
    </mg>
 </e>
@@ -5318,6 +5262,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">apkārt</t>
+       <t pos="">otrādi</t>
        <t pos="">apkārt</t>
        <t pos="">otrādi</t>
      </tg>
@@ -5532,6 +5478,8 @@
      <tg xml:lang="lav">
        <t pos="">pa rokai</t>
        <t pos="">pie rokas</t>
+       <t pos="">pa rokai</t>
+       <t pos="">pie rokas</t>
      </tg>
    </mg>
 </e>
@@ -5642,6 +5590,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">pa rokai</t>
+       <t pos="">pie rokas</t>
        <t pos="">pa rokai</t>
        <t pos="">pie rokas</t>
      </tg>
@@ -5891,12 +5841,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="ADV_" pos="Adv">lūojõ</t>
-       <re>esimerkiksi aurinko</re>
-       </tCtn>
+   <mg> <defNative>esimerkiksi aurinko</defNative>
+     <tg xml:lang="lav">
+       <t pos="">rietā</t>
      </tg>
    </mg>
 </e>
@@ -6426,6 +6373,8 @@
      <tg xml:lang="lav">
        <t pos="">klāt (virziens)</t>
        <t pos="">tuvu (virziens)</t>
+       <t pos="">klāt (virziens)</t>
+       <t pos="">tuvu (virziens)</t>
      </tg>
    </mg>
 </e>
@@ -6437,6 +6386,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">klāt (virziens)</t>
+       <t pos="">tuvu (virziens)</t>
        <t pos="">klāt (virziens)</t>
        <t pos="">tuvu (virziens)</t>
      </tg>
@@ -6692,6 +6643,8 @@
      <tg xml:lang="lav">
        <t pos="">guļus</t>
        <t pos="">garšļaukus</t>
+       <t pos="">guļus</t>
+       <t pos="">garšļaukus</t>
      </tg>
    </mg>
 </e>
@@ -6703,6 +6656,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">guļus (virziens)</t>
+       <t pos="">garšļaukus (virziens)</t>
        <t pos="">guļus (virziens)</t>
        <t pos="">garšļaukus (virziens)</t>
      </tg>
@@ -7331,6 +7286,8 @@
      <tg xml:lang="lav">
        <t pos="">visai bieži</t>
        <t pos="">nereti</t>
+       <t pos="">visai bieži</t>
+       <t pos="">nereti</t>
        <t pos="">daudzreiz</t>
      </tg>
    </mg>
@@ -7927,6 +7884,8 @@
      <tg xml:lang="lav">
        <t pos="">tik drīz</t>
        <t pos="">tiklīdz</t>
+       <t pos="">tik drīz</t>
+       <t pos="">tiklīdz</t>
      </tg>
    </mg>
 </e>
@@ -8436,6 +8395,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">tūliņ</t>
+       <t pos="">tūlīt</t>
        <t pos="">tūliņ</t>
        <t pos="">tūlīt</t>
        <t pos="">neatliekami</t>
@@ -9214,6 +9175,8 @@
      <tg xml:lang="lav">
        <t pos="">guļus (virziens)</t>
        <t pos="">garšļaukus (virziens)</t>
+       <t pos="">guļus (virziens)</t>
+       <t pos="">garšļaukus (virziens)</t>
      </tg>
    </mg>
 </e>
@@ -9264,6 +9227,8 @@
      <tg xml:lang="lav">
        <t pos="">guļus (virziens)</t>
        <t pos="">garšļaukus (virziens)</t>
+       <t pos="">guļus (virziens)</t>
+       <t pos="">garšļaukus (virziens)</t>
      </tg>
    </mg>
 </e>
@@ -9287,6 +9252,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">guļus</t>
+       <t pos="">garšļaukus</t>
        <t pos="">guļus</t>
        <t pos="">garšļaukus</t>
        <t pos="">gar zemi</t>
@@ -10713,6 +10680,8 @@
      <tg xml:lang="lav">
        <t pos="">tāpēc</t>
        <t pos="">tādēļ</t>
+       <t pos="">tāpēc</t>
+       <t pos="">tādēļ</t>
      </tg>
    </mg>
 </e>
@@ -10777,6 +10746,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">taču</t>
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
+       <t pos="">tomēr</t>
        <t pos="">taču</t>
        <t pos="">tomēr</t>
        <t pos="">taču</t>
@@ -11035,6 +11008,8 @@
        <t pos="">tomēr</t>
        <t pos="">taču</t>
        <t pos="">tomēr</t>
+       <t pos="">taču</t>
+       <t pos="">tomēr</t>
      </tg>
    </mg>
 </e>
@@ -11086,6 +11061,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">tāpēc</t>
+       <t pos="">tādēļ</t>
        <t pos="">tāpēc</t>
        <t pos="">tādēļ</t>
      </tg>
@@ -11182,6 +11159,8 @@
        <t pos="">tomēr</t>
        <t pos="">tik un tā</t>
        <t pos="">šā vai tā</t>
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
        <t pos="">tomēr</t>
        <t pos="">taču</t>
        <t pos="">tomēr</t>
@@ -11451,6 +11430,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
        <t pos="">tomēr</t>
        <t pos="">taču</t>
        <t pos="">tomēr</t>
@@ -12377,6 +12360,9 @@
        <t pos="">tieši</t>
        <t pos="">precīzi</t>
        <t pos="">akurāti</t>
+       <t pos="">tieši</t>
+       <t pos="">precīzi</t>
+       <t pos="">akurāti</t>
        <t pos="">precīzi</t>
      </tg>
    </mg>
@@ -12389,6 +12375,9 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">tieši</t>
+       <t pos="">precīzi</t>
+       <t pos="">akurāti</t>
        <t pos="">tieši</t>
        <t pos="">precīzi</t>
        <t pos="">akurāti</t>
@@ -12669,6 +12658,8 @@
      <tg xml:lang="lav">
        <t pos="">protams</t>
        <t pos="">zināms</t>
+       <t pos="">protams</t>
+       <t pos="">zināms</t>
      </tg>
    </mg>
 </e>
@@ -12797,6 +12788,8 @@
      <tg xml:lang="lav">
        <t pos="">tiešām</t>
        <t pos="">patiešām</t>
+       <t pos="">tiešām</t>
+       <t pos="">patiešām</t>
      </tg>
    </mg>
 </e>
@@ -12808,6 +12801,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">tiešām</t>
+       <t pos="">patiešām</t>
+       <t pos="">tiešām</t>
+       <t pos="">patiešām</t>
        <t pos="">tiešām</t>
        <t pos="">patiešām</t>
      </tg>
@@ -13074,6 +13071,8 @@
        <t pos="">taču</t>
        <t pos="">tomēr</t>
        <t pos="">taču</t>
+       <t pos="">tomēr</t>
+       <t pos="">taču</t>
      </tg>
    </mg>
 </e>
@@ -13085,6 +13084,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">tiešām</t>
+       <t pos="">patiešām</t>
+       <t pos="">tiešām</t>
+       <t pos="">patiešām</t>
        <t pos="">tiešām</t>
        <t pos="">patiešām</t>
      </tg>
@@ -13716,6 +13719,9 @@
        <t pos="">tieši</t>
        <t pos="">precīzi</t>
        <t pos="">akurāti</t>
+       <t pos="">tieši</t>
+       <t pos="">precīzi</t>
+       <t pos="">akurāti</t>
        <t pos="">precīzi</t>
      </tg>
    </mg>
@@ -13728,6 +13734,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">šeit</t>
+       <t pos="">te</t>
        <t pos="">šeit</t>
        <t pos="">te</t>
        <t pos="">šeit</t>
@@ -13888,6 +13896,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">šeit</t>
+       <t pos="">te</t>
        <t pos="">šeit</t>
        <t pos="">te</t>
        <t pos="">šeit</t>
@@ -14097,6 +14107,8 @@
      <tg xml:lang="lav">
        <t pos="">visai bieži</t>
        <t pos="">nereti</t>
+       <t pos="">visai bieži</t>
+       <t pos="">nereti</t>
      </tg>
    </mg>
 </e>
@@ -14197,6 +14209,8 @@
        <t pos="">stipri</t>
        <t pos="">spēcīgi</t>
        <t pos="">sparīgi</t>
+       <t pos="">spēcīgi</t>
+       <t pos="">stipri</t>
        <t pos="">spēcīgi</t>
        <t pos="">stipri</t>
      </tg>
@@ -14913,6 +14927,8 @@
        <t pos="">tūlīt</t>
        <t pos="">tūliņ</t>
        <t pos="">tūlīt</t>
+       <t pos="">tūliņ</t>
+       <t pos="">tūlīt</t>
        <t pos="">uzreiz</t>
        <t pos="">tūlīt</t>
        <t pos="">nekavējoties</t>
@@ -15351,6 +15367,8 @@
        <t pos="">tūlīt</t>
        <t pos="">tūliņ</t>
        <t pos="">tūlīt</t>
+       <t pos="">tūliņ</t>
+       <t pos="">tūlīt</t>
        <t pos="">uzreiz</t>
        <t pos="">tūlīt</t>
      </tg>
@@ -15433,6 +15451,8 @@
        <t pos="">reizē</t>
        <t pos="">kopā</t>
        <t pos="">vienkop</t>
+       <t pos="">kopā</t>
+       <t pos="">vienkop</t>
      </tg>
    </mg>
 </e>
@@ -15470,6 +15490,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vienmērīgi</t>
+       <t pos="">viendabīgi</t>
        <t pos="">vienmērīgi</t>
        <t pos="">viendabīgi</t>
      </tg>
@@ -15550,6 +15572,8 @@
      <tg xml:lang="lav">
        <t pos="">vienmērīgi</t>
        <t pos="">viendabīgi</t>
+       <t pos="">vienmērīgi</t>
+       <t pos="">viendabīgi</t>
      </tg>
    </mg>
 </e>
@@ -15611,6 +15635,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">savrup</t>
+       <t pos="">savā nodabā</t>
        <t pos="">savrup</t>
        <t pos="">savā nodabā</t>
      </tg>
@@ -15923,6 +15949,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">apkārt</t>
+       <t pos="">otrādi</t>
        <t pos="">apkārt</t>
        <t pos="">otrādi</t>
        <t pos="">apgāzts</t>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
 <e>
    <lg>
      <l pos="CS">ainoastaan</l>
@@ -11,6 +21,30 @@
        <t pos="">tik</t>
        <t pos="">taču</t>
        <t pos="">vien</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ei ... ei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ne ..., ne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ei ... eikä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ne ..., ne</t>
      </tg>
    </mg>
 </e>
@@ -37,6 +71,18 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">ka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">un</t>
      </tg>
    </mg>
 </e>
@@ -90,6 +136,18 @@
 </e>
 <e>
    <lg>
+     <l pos="CC">kuin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">nekā</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="CS">kuin</l>
      <stg> <st/>
      </stg>
@@ -98,7 +156,8 @@
      <tg xml:lang="lav">
        <t pos="">kā</t>
        <t pos="">tā kā</t>
-       <t pos="">nekā</t>
+       <t pos="">kā</t>
+       <t pos="">tā kā</t>
      </tg>
    </mg>
 </e>
@@ -202,12 +261,26 @@
 </e>
 <e>
    <lg>
+     <l pos="CC">mutta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">bet</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="CS">niin kuin</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">kā</t>
+       <t pos="">tā kā</t>
        <t pos="">kā</t>
        <t pos="">tā kā</t>
      </tg>
@@ -270,6 +343,18 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">turklāt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">tikai</t>
      </tg>
    </mg>
 </e>

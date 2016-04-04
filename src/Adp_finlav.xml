@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-<e>
-   <lg>
-     <l pos="Adp">nähden</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">par</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adp">suhteen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">par</t>
-     </tg>
-   </mg>
-</e>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
 <e>
    <lg>
      <l pos="Po">-ksi</l>
@@ -50,7 +36,31 @@
 </e>
 <e>
    <lg>
+     <l pos="">-sta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">par</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">-sta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">par</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="">-stä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -69,6 +79,18 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">par</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aiheetta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">velti</t>
      </tg>
    </mg>
 </e>
@@ -267,6 +289,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">enemmän</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">vairāk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">ennen</l>
      <stg> <st/>
      </stg>
@@ -274,6 +308,18 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pirms</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prefix">epä-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">ne-</t>
      </tg>
    </mg>
 </e>
@@ -303,6 +349,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Pr">ilman</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">bez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">johdosta</l>
      <stg> <st/>
      </stg>
@@ -324,6 +382,8 @@
        <t pos="">uz vidu</t>
        <t pos="">vidū</t>
        <t pos="">starpā</t>
+       <t pos="">vidū</t>
+       <t pos="">starpā</t>
        <t pos="">starp</t>
        <t pos="">pulkā</t>
        <t pos="">starpā (virziens)</t>
@@ -338,6 +398,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vidū</t>
+       <t pos="">starpā</t>
        <t pos="">vidū</t>
        <t pos="">starpā</t>
        <t pos="">starp</t>
@@ -448,6 +510,8 @@
        <t pos="">uz vidu</t>
        <t pos="">vidū</t>
        <t pos="">starpā</t>
+       <t pos="">vidū</t>
+       <t pos="">starpā</t>
        <t pos="">starp</t>
        <t pos="">starpā (virziens)</t>
      </tg>
@@ -461,6 +525,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vidū</t>
+       <t pos="">starpā</t>
        <t pos="">vidū</t>
        <t pos="">starpā</t>
        <t pos="">starp</t>
@@ -630,6 +696,8 @@
      <tg xml:lang="lav">
        <t pos="">no rokas</t>
        <t pos="">no rokām</t>
+       <t pos="">no rokas</t>
+       <t pos="">no rokām</t>
      </tg>
    </mg>
 </e>
@@ -655,6 +723,8 @@
      <tg xml:lang="lav">
        <t pos="">rokās</t>
        <t pos="">pie</t>
+       <t pos="">rokās</t>
+       <t pos="">pie</t>
      </tg>
    </mg>
 </e>
@@ -666,6 +736,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">no rokas</t>
+       <t pos="">no rokām</t>
        <t pos="">no rokas</t>
        <t pos="">no rokām</t>
      </tg>
@@ -935,6 +1007,8 @@
      <tg xml:lang="lav">
        <t pos="">pēc</t>
        <t pos="">-prāt</t>
+       <t pos="">pēc</t>
+       <t pos="">-prāt</t>
      </tg>
    </mg>
 </e>
@@ -948,6 +1022,10 @@
      <tg xml:lang="lav">
        <t pos="">pēc</t>
        <t pos="">-prāt</t>
+       <t pos="">pēc</t>
+       <t pos="">-prāt</t>
+       <t pos="">atbilstoši</t>
+       <t pos="">atbilstīgi</t>
        <t pos="">atbilstoši</t>
        <t pos="">atbilstīgi</t>
      </tg>
@@ -987,6 +1065,18 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">vārdā</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="">nähden</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">par</t>
      </tg>
    </mg>
 </e>
@@ -1136,6 +1226,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">par</t>
+       <t pos="">vietā</t>
        <t pos="">par</t>
        <t pos="">vietā</t>
        <t pos="">vārdā</t>
@@ -1292,6 +1384,20 @@
      <tg xml:lang="lav">
        <t pos="">līdz</t>
      </tg>
+<xg><x>Riikaan saakka</x>
+<xt>līdz Rīgai</xt></xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">samantekevää</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">kaut</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -1368,7 +1474,22 @@
      <tg xml:lang="lav">
        <t pos="">par</t>
        <t pos="">vietā</t>
+       <t pos="">par</t>
+       <t pos="">vietā</t>
        <t pos="">kā</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sinnepäin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">turp</t>
+       <t pos="">uz to pusi</t>
      </tg>
    </mg>
 </e>
@@ -1378,11 +1499,15 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>käytetään illatiivissa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="POSTP_" pos="Po">siʼzzõl</t>
-       <re>käytetään illatiivissa</re>
+       <t pos="">iekšā</t>
+       <re>virziens</re>
+       </tCtn>
+       <tCtn>
+       <t pos="">iekš</t>
+       <re>virziens</re>
        </tCtn>
      </tg>
    </mg>
@@ -1441,11 +1566,15 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>käytetään illatiivissa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="POSTP_" pos="Po">siʼzzõl</t>
-       <re>käytetään illatiivissa</re>
+       <t pos="">iekšā</t>
+       <re>virziens</re>
+       </tCtn>
+       <tCtn>
+       <t pos="">iekš</t>
+       <re>virziens</re>
        </tCtn>
      </tg>
    </mg>
@@ -1477,6 +1606,18 @@
 </e>
 <e>
    <lg>
+     <l pos="">suhteen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">par</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">suhteen</l>
      <stg> <st/>
      </stg>
@@ -1501,6 +1642,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">suotta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">velti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">suuntaan</l>
      <stg> <st/>
      </stg>
@@ -1509,6 +1662,18 @@
      <tg xml:lang="lav">
        <t pos="">uz pusi</t>
        <t pos="">virzienā</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">syyttä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">velti</t>
      </tg>
    </mg>
 </e>
@@ -1702,6 +1867,31 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">tuonnepäin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">turp</t>
+       <t pos="">uz to pusi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">turhaan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">velti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">tähden</l>
      <stg> <st/>
      </stg>
@@ -1732,6 +1922,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">rokās</t>
+       <t pos="">pie</t>
        <t pos="">rokās</t>
        <t pos="">pie</t>
      </tg>
@@ -1796,6 +1988,30 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">no vietas iepretim</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">vasten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">pret</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">vastoin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">pret</t>
      </tg>
    </mg>
 </e>
@@ -2136,54 +2352,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">no malas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pr">ilman</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">bez</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pr">vasten</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pret</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pr">vastoin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pret</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Prefix">epä-</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ne-</t>
      </tg>
    </mg>
 </e>

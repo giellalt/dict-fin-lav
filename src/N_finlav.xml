@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+
 <e>
    <lg>
-     <l pos="">talon tytär</l>
+     <l pos="N">-alainen</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_TIDĀR" pos="N">peʼrnaiztidār</t>
-       <re>talon nsisomistajan tytär</re>
-       </tCtn>
+     <tg xml:lang="lav">
+       <t pos="">apakša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">-kasvuinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">augums</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">-takainen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav">
+       <t pos="">aiz-</t>
      </tg>
    </mg>
 </e>
@@ -151,30 +183,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">aamukaste</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rīta rasa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aamukävely</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rīta pastaiga</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">aamunkoitto</l>
      <stg> <st/>
      </stg>
@@ -236,30 +244,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">aamusumu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rīta migla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aamutyö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rīta darbs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">aamutähti</l>
      <stg> <st/>
      </stg>
@@ -267,18 +251,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">rīta zvaigzne</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aamuyö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">nakts rīta pusē</t>
      </tg>
    </mg>
 </e>
@@ -375,6 +347,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">ķēms</t>
+       <t pos="">spoks</t>
        <t pos="">ķēms</t>
        <t pos="">spoks</t>
        <t pos="">rēgs</t>
@@ -1310,18 +1284,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">aidanseiväs</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sētas miets</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">aihe</l>
      <stg> <st/>
      </stg>
@@ -1368,18 +1330,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">aikakausjulkaisu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">periodiskis izdevums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">aikakauskirja</l>
      <stg> <st/>
      </stg>
@@ -1413,18 +1363,6 @@
      <tg xml:lang="lav">
        <t pos="">laikraksts</t>
        <t pos="">žurnāls</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aikamies</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pieaudzis vīrietis</t>
      </tg>
    </mg>
 </e>
@@ -1755,19 +1693,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">aivokalvontulehdus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">smadzeņu plēves iekaisums</t>
-       <t pos="">meningīts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">aivolisäke</l>
      <stg> <st/>
      </stg>
@@ -1800,30 +1725,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">smadzeņu iekaisums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aivotärähdys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">smadzeņu satricinājums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">aivoverenkiertohäiriö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">galvas smadzeņu asinsrites traucējums</t>
      </tg>
    </mg>
 </e>
@@ -2506,18 +2407,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">alahuuli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">apakšlūpa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">alaikäinen</l>
      <stg> <st/>
      </stg>
@@ -2598,31 +2487,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">zemiene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">alaosa</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">apakšdaļa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">alapuoli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">apakšdaļa</t>
-       <t pos="">apakšpuse</t>
      </tg>
    </mg>
 </e>
@@ -2885,7 +2749,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">iesākums</t>
        <t pos="">sākums</t>
      </tg>
    </mg>
@@ -2899,18 +2762,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pirmiedzīvotājs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">alkukevät</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">agrīns pavasaris</t>
      </tg>
    </mg>
 </e>
@@ -2994,7 +2845,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">iesākums</t>
        <t pos="">priekšgals</t>
      </tg>
    </mg>
@@ -4043,6 +3893,8 @@
        <t pos="">mazasinība</t>
        <t pos="">anēmija</t>
        <t pos="">mazasinība</t>
+       <t pos="">anēmija</t>
+       <t pos="">mazasinība</t>
      </tg>
    </mg>
 </e>
@@ -4148,11 +4000,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>vanha vetomitta</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ĀNKAŖ" pos="N">vǟrpiļ</t>
-       <re>vanha vetomitta</re>
+       <t pos="">vērpele</t>
+       <re>tilpuma mērvienība</re>
        </tCtn>
      </tg>
    </mg>
@@ -4166,18 +4018,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">enkurs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ankkurinhaara</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">enkura pēda</t>
      </tg>
    </mg>
 </e>
@@ -4249,12 +4089,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PADĀ" pos="N">mīʼejemā</t>
-       <re>aviomiehen äiti</re>
-       </tCtn>
+   <mg> <defNative>aviomiehen äiti</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vīramāte</t>
      </tg>
    </mg>
 </e>
@@ -4264,12 +4101,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PADĀ" pos="N">naizjemā</t>
-       <re>vaimon äiti</re>
-       </tCtn>
+   <mg> <defNative>vaimon äiti</defNative>
+     <tg xml:lang="lav">
+       <t pos="">sievasmāte</t>
      </tg>
    </mg>
 </e>
@@ -4291,11 +4125,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>langasta tehty silmukkapyydys</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ǬʼRÕN" pos="N">lamātõkspaʼggõl</t>
-       <re>langasta tehty silmukkapyydys</re>
+       <t pos="">cilpa</t>
+       <re>lamatas</re>
        </tCtn>
      </tg>
    </mg>
@@ -4308,6 +4142,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">peļņa</t>
+       <t pos="">izpeļņa</t>
        <t pos="">peļņa</t>
        <t pos="">izpeļņa</t>
      </tg>
@@ -4347,19 +4183,9 @@
      <tg xml:lang="lav">
        <t pos="">peļņa</t>
        <t pos="">izpeļņa</t>
+       <t pos="">peļņa</t>
+       <t pos="">izpeļņa</t>
        <t pos="">ienākums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ansiotyö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">maksas darbs</t>
      </tg>
    </mg>
 </e>
@@ -4563,12 +4389,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IRM" pos="N">zǭl</t>
-       <re>kengänpohjasta</re>
-       </tCtn>
+   <mg> <defNative>kengänpohjasta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">zole</t>
      </tg>
    </mg>
 </e>
@@ -4822,12 +4645,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IZĀ" pos="N">mīʼeizā</t>
-       <re>aviomiehen isä</re>
-       </tCtn>
+   <mg> <defNative>aviomiehen isä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vīratēvs</t>
      </tg>
    </mg>
 </e>
@@ -4837,12 +4657,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IZĀ" pos="N">naizizā</t>
-       <re>vaimon isä</re>
-       </tCtn>
+   <mg> <defNative>vaimon isä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">sievastēvs</t>
      </tg>
    </mg>
 </e>
@@ -4852,12 +4669,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IZĀ" pos="N">mīʼeizā</t>
-       <re>aviomiehen isä</re>
-       </tCtn>
+   <mg> <defNative>aviomiehen isä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vīratēvs</t>
      </tg>
    </mg>
 </e>
@@ -4867,12 +4681,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IZĀ" pos="N">naizizā</t>
-       <re>vaimon isä</re>
-       </tCtn>
+   <mg> <defNative>vaimon isä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">sievastēvs</t>
      </tg>
    </mg>
 </e>
@@ -5031,18 +4842,6 @@
      <tg xml:lang="lav">
        <t pos="">vietnieks</t>
        <t pos="">aizvietotājs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">apulaisjohtaja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">priekšsēdētāja vietnieks</t>
      </tg>
    </mg>
 </e>
@@ -5725,18 +5524,8 @@
      <tg xml:lang="lav">
        <t pos="">cienīšana</t>
        <t pos="">godāšana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">arvonlisävero</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pievienotās vērtības nodoklis</t>
+       <t pos="">cienīšana</t>
+       <t pos="">godāšana</t>
      </tg>
    </mg>
 </e>
@@ -5809,6 +5598,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vieta</t>
+       <t pos="">stāvoklis</t>
        <t pos="">vieta</t>
        <t pos="">stāvoklis</t>
        <t pos="">kārta</t>
@@ -6860,7 +6651,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">saules riets</t>
        <t pos="">riets</t>
      </tg>
    </mg>
@@ -6984,6 +6774,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">automašīna</t>
+       <t pos="">auto</t>
        <t pos="">automašīna</t>
        <t pos="">auto</t>
        <t pos="">automašīna</t>
@@ -8209,18 +8001,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">boheemielämä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">bohēmiska dzīve</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">boikotti</l>
      <stg> <st/>
      </stg>
@@ -8588,18 +8368,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">autobusa biļete</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">bussiyhteys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">autobusu satiksme</t>
      </tg>
    </mg>
 </e>
@@ -9591,6 +9359,8 @@
      <tg xml:lang="lav">
        <t pos="">dolomīts</t>
        <t pos="">kaļķakmens</t>
+       <t pos="">dolomīts</t>
+       <t pos="">kaļķakmens</t>
      </tg>
    </mg>
 </e>
@@ -9726,6 +9496,8 @@
      <tg xml:lang="lav">
        <t pos="">priekšgājējs</t>
        <t pos="">priekštecis</t>
+       <t pos="">priekšgājējs</t>
+       <t pos="">priekštecis</t>
      </tg>
    </mg>
 </e>
@@ -9737,6 +9509,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">priekšgājējs</t>
+       <t pos="">priekštecis</t>
        <t pos="">priekšgājējs</t>
        <t pos="">priekštecis</t>
      </tg>
@@ -10447,6 +10221,26 @@
 </e>
 <e>
    <lg>
+     <l pos="N">elosalama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">elosalama</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">elovirna</l>
      <stg> <st/>
      </stg>
@@ -10682,18 +10476,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">elämäntyö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mūža darbs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">elättäjä</l>
      <stg> <st/>
      </stg>
@@ -10713,18 +10495,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sivēnmāte</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">emalikattila</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">emaljēts katls</t>
      </tg>
    </mg>
 </e>
@@ -10915,12 +10685,10 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PADĀ" pos="N">jemā</t>
-       <re>laivan</re>
-       </tCtn>
+   <mg> <defNative>laivan</defNative>
+     <tg xml:lang="lav">
+       <t pos="">mātes dēlis</t>
+       <t pos="">ķīļplanka</t>
      </tg>
    </mg>
 </e>
@@ -10945,19 +10713,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">maksts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">endokardium</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds endokards</t>
-       <t pos="">sirds epikards</t>
      </tg>
    </mg>
 </e>
@@ -11331,18 +11086,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">epämurtoluku</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">neīsts daļskaitlis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">epäoikeudenmukaisuus</l>
      <stg> <st/>
      </stg>
@@ -11414,19 +11157,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">maldi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">erikoismaksu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">īpaša maksa</t>
-       <t pos="">nodoklis</t>
      </tg>
    </mg>
 </e>
@@ -12203,6 +11933,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">priekšvārds</t>
+       <t pos="">vārds</t>
+       <t pos="">kristītais vārds</t>
        <t pos="">vārds</t>
        <t pos="">kristītais vārds</t>
      </tg>
@@ -13908,11 +13640,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>taideteos</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ĀIGAST" pos="N">grafik</t>
-       <re>taideteos</re>
+       <t pos="">grafika</t>
+       <re>mākslas darbs</re>
        </tCtn>
      </tg>
    </mg>
@@ -14097,6 +13829,8 @@
        <t pos="">spoks</t>
        <t pos="">ķēms</t>
        <t pos="">spoks</t>
+       <t pos="">ķēms</t>
+       <t pos="">spoks</t>
      </tg>
    </mg>
 </e>
@@ -14114,24 +13848,15 @@
 </e>
 <e>
    <lg>
-     <l pos="N">haapio</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vienkocis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">haara</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">zars</t>
+       <t pos="">sazarojums</t>
+       <t pos="">žuburs</t>
        <t pos="">zars</t>
        <t pos="">sazarojums</t>
        <t pos="">žuburs</t>
@@ -14194,6 +13919,9 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">zars</t>
+       <t pos="">sazarojums</t>
+       <t pos="">žuburs</t>
        <t pos="">zars</t>
        <t pos="">sazarojums</t>
        <t pos="">žuburs</t>
@@ -14273,6 +14001,8 @@
        <t pos="">pušums</t>
        <t pos="">brūce</t>
        <t pos="">vāts</t>
+       <t pos="">brūce</t>
+       <t pos="">vāts</t>
      </tg>
    </mg>
 </e>
@@ -14334,18 +14064,6 @@
      <tg xml:lang="lav">
        <t pos="">skumjas</t>
        <t pos="">bēdas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">haima</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aizkuņģa dziedzeris</t>
      </tg>
    </mg>
 </e>
@@ -14582,12 +14300,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">diametrs</t>
-       <tCtn>
-       <t Contlex="N_KĪNDÕR" pos="N">klīvõr</t>
-       <re>purje</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">halkaisija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>purje</defNative>
+     <tg xml:lang="lav">
+       <t pos="">klīvers</t>
      </tg>
    </mg>
 </e>
@@ -14640,11 +14366,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>vaatteessa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_MAKS" pos="N">šlits</t>
-       <re>vaatteessa</re>
+       <t pos="">šķēlums</t>
+       <re>apģērbam</re>
        </tCtn>
      </tg>
    </mg>
@@ -14705,6 +14431,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">dižlaiva</t>
+       <t pos="">malkas laiva</t>
        <t pos="">dižlaiva</t>
        <t pos="">malkas laiva</t>
      </tg>
@@ -14790,7 +14518,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">ministru kabinets</t>
        <t pos="">valde</t>
        <t pos="">vadība</t>
        <t pos="">valdīšana</t>
@@ -15050,18 +14777,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hamppuköysi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kaņepju virve</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hamppuvoi</l>
      <stg> <st/>
      </stg>
@@ -15103,12 +14818,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">krāns</t>
-       <tCtn>
-       <t Contlex="N_KEP" pos="N">plintkik</t>
-       <re>ampuma-aseen osa</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">hana</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>ampuma-aseen osa</defNative>
+     <tg xml:lang="lav">
+       <t pos="">šautenes gailis</t>
      </tg>
    </mg>
 </e>
@@ -15145,18 +14868,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">zosumāte</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">hanhikukko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zostēviņš</t>
      </tg>
    </mg>
 </e>
@@ -15511,19 +15222,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">haravointi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">grābšanas darbs</t>
-       <t pos="">grābšana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">harha</l>
      <stg> <st/>
      </stg>
@@ -15554,12 +15252,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">suka</t>
-       <tCtn>
-       <t Contlex="N_KÄPĀ-PL" pos="N">lakād</t>
-       <re>eräillä eläimillä niskassa olevat pitkät karvat tai jouhet</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">harja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>eräillä eläimillä niskassa olevat pitkät karvat tai jouhet</defNative>
+     <tg xml:lang="lav">
+       <t pos="">krēpes</t>
      </tg>
    </mg>
 </e>
@@ -15587,18 +15293,6 @@
        <t pos="">kores sija</t>
        <t pos="">bendele</t>
        <t pos="">kores baļķis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">harjakatto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">divslīpju jumts</t>
      </tg>
    </mg>
 </e>
@@ -15737,18 +15431,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">harmaaleppä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baltalksnis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">harmaapää</l>
      <stg> <st/>
      </stg>
@@ -15756,18 +15438,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sirmgalvis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">harmaasieppo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pelēkais mušķērājs</t>
      </tg>
    </mg>
 </e>
@@ -16084,12 +15754,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_SĒJI" pos="N">utāji</t>
-       <re>koirasta</re>
-       </tCtn>
+   <mg> <defNative>koirasta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">rējējs</t>
      </tg>
    </mg>
 </e>
@@ -16479,12 +16146,10 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_NIʼM" pos="N">vīļakaʼz</t>
-       <re>tulos</re>
-       </tCtn>
+   <mg> <defNative>tulos</defNative>
+     <tg xml:lang="lav">
+       <t pos="">augļi</t>
+       <t pos="">raža</t>
      </tg>
    </mg>
 </e>
@@ -16876,6 +16541,10 @@
      <tg xml:lang="lav">
        <t pos="">siena kušķis</t>
        <t pos="">zāles kušķis</t>
+       <t pos="">siena kušķis</t>
+       <t pos="">zāles kušķis</t>
+       <t pos="">siena kušķis</t>
+       <t pos="">zāles kušķis</t>
      </tg>
    </mg>
 </e>
@@ -16922,11 +16591,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">metiens</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">heitto</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>mitta</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ĒTAM" pos="N">ētam</t>
-       <re>mitta</re>
+       <t pos="">metiens</t>
+       <re>mērs</re>
        </tCtn>
      </tg>
    </mg>
@@ -16953,19 +16633,6 @@
      <tg xml:lang="lav">
        <t pos="">Krusta pacelšanas diena</t>
        <t pos="">Debesbraukšanas diena</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">helatortsai</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">lielā Krusta pacelšanas diena</t>
-       <t pos="">debesbraukšanas diena</t>
      </tg>
    </mg>
 </e>
@@ -17025,23 +16692,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">karsts laiks</t>
        <t pos="">karstums</t>
        <t pos="">tveice</t>
        <t pos="">bula laiks</t>
        <t pos="">tveice</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">hellesää</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">karsts laiks</t>
      </tg>
    </mg>
 </e>
@@ -17165,12 +16819,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KÄPĀ" pos="N">ļäpā</t>
-       <re>linnuilla</re>
-       </tCtn>
+   <mg> <defNative>linnuilla</defNative>
+     <tg xml:lang="lav">
+       <t pos="">parpala</t>
      </tg>
    </mg>
 </e>
@@ -17183,18 +16834,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">elles mašīna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">helvetintuli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">elles uguns</t>
      </tg>
    </mg>
 </e>
@@ -17381,6 +17020,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">auto</t>
+       <t pos="">automašīna</t>
        <t pos="">auto</t>
        <t pos="">automašīna</t>
      </tg>
@@ -17767,18 +17408,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hermostuneisuus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vāji nervi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hermotauti</l>
      <stg> <st/>
      </stg>
@@ -17834,30 +17463,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">zirņu zupa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">hernepelto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zirņu lauks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">herneviljelmä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zirņu lauks</t>
      </tg>
    </mg>
 </e>
@@ -18074,7 +17679,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">zirga suka</t>
        <t pos="">zirga ķemme</t>
        <t pos="">zirga suka</t>
      </tg>
@@ -18101,18 +17705,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kastanis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">hevoslaidun</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zirgu aploks</t>
      </tg>
    </mg>
 </e>
@@ -18468,18 +18060,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hietaolkikukka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dzeltenā salmene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hietasavi</l>
      <stg> <st/>
      </stg>
@@ -18663,18 +18243,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hiippaläppä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">divviru vārstulis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hiirenherne</l>
      <stg> <st/>
      </stg>
@@ -18700,27 +18268,19 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hiirenloukku</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">peļu slazds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hiirenmetsästäjä</l>
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>kissasta</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_KÄPĀ" pos="N">meḑānikā</t>
-       <re>kissasta</re>
+       <t pos="">peļu junkurs</t>
+       <re>par kaķi</re>
+       </tCtn>
+       <tCtn>
+       <t pos="">mednieks</t>
+       <re>par kaķi</re>
        </tCtn>
      </tg>
    </mg>
@@ -19088,18 +18648,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hiomalaikka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tecīlas ripa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hiomapaperi</l>
      <stg> <st/>
      </stg>
@@ -19213,12 +18761,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_SIDĀM" pos="N">äʼbrištīng</t>
-       <re>ihmisestä</re>
-       </tCtn>
+   <mg> <defNative>ihmisestä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">necilvēks</t>
      </tg>
    </mg>
 </e>
@@ -19739,18 +19284,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hopeaesineet</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sudrablietas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">hopeahanhikki</l>
      <stg> <st/>
      </stg>
@@ -19835,18 +19368,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">hopeasormus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sudraba gredzens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">horina</l>
      <stg> <st/>
      </stg>
@@ -19915,18 +19436,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">hormonterapija</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">hornankattila</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">elles katls</t>
      </tg>
    </mg>
 </e>
@@ -20156,6 +19665,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">piesta</t>
+       <t pos="">miezeris</t>
        <t pos="">piesta</t>
        <t pos="">miezeris</t>
      </tg>
@@ -20718,6 +20229,8 @@
        <t pos="">rūpes</t>
        <t pos="">gādība</t>
        <t pos="">aprūpe</t>
+       <t pos="">gādība</t>
+       <t pos="">aprūpe</t>
      </tg>
    </mg>
 </e>
@@ -21104,6 +20617,9 @@
        <t pos="">tvaiks</t>
        <t pos="">garaiņi</t>
        <t pos="">suta</t>
+       <t pos="">tvaiks</t>
+       <t pos="">garaiņi</t>
+       <t pos="">suta</t>
      </tg>
    </mg>
 </e>
@@ -21153,6 +20669,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">izsole</t>
+       <t pos="">ūtrupe</t>
        <t pos="">izsole</t>
        <t pos="">ūtrupe</t>
      </tg>
@@ -22166,18 +21684,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">härkävaljakko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vērša iejūgs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">härkävaunu</l>
      <stg> <st/>
      </stg>
@@ -22611,6 +22117,9 @@
        <t pos="">tvaiks</t>
        <t pos="">garaiņi</t>
        <t pos="">suta</t>
+       <t pos="">tvaiks</t>
+       <t pos="">garaiņi</t>
+       <t pos="">suta</t>
      </tg>
    </mg>
 </e>
@@ -23026,6 +22535,8 @@
      <tg xml:lang="lav">
        <t pos="">ļaudis</t>
        <t pos="">cilvēki</t>
+       <t pos="">ļaudis</t>
+       <t pos="">cilvēki</t>
      </tg>
    </mg>
 </e>
@@ -23360,18 +22871,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ikkunasarana</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">loga eņģe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ikkunaverho</l>
      <stg> <st/>
      </stg>
@@ -23405,18 +22904,6 @@
        <t pos="">mūžs</t>
        <t pos="">vecums</t>
        <t pos="">gadu skaits</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ikäihminen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">padzīvojis cilvēks</t>
      </tg>
    </mg>
 </e>
@@ -23940,18 +23427,6 @@
      <tg xml:lang="lav">
        <t pos="">pēcpusdiena</t>
        <t pos="">vakarpuse</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">iltapäiväkävely</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pēcpusdienas pastaiga</t>
      </tg>
    </mg>
 </e>
@@ -24797,18 +24272,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">intransitiiviverbi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">intransitīvs darbības vārds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">intrigi</l>
      <stg> <st/>
      </stg>
@@ -24852,18 +24315,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">invalīds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">inventaario</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">inventāra žurnāls</t>
      </tg>
    </mg>
 </e>
@@ -24924,7 +24375,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">izvirtība</t>
        <t pos="">izlaidība</t>
        <t pos="">izvirtība</t>
        <t pos="">netiklība</t>
@@ -24975,7 +24425,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">grimase</t>
        <t pos="">smīns</t>
      </tg>
    </mg>
@@ -25225,24 +24674,14 @@
 </e>
 <e>
    <lg>
-     <l pos="N">isovarvas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kājas īkšķis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">isovene</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">dižlaiva</t>
+       <t pos="">malkas laiva</t>
        <t pos="">dižlaiva</t>
        <t pos="">malkas laiva</t>
      </tg>
@@ -25358,18 +24797,6 @@
      <tg xml:lang="lav">
        <t pos="">tēvzeme</t>
        <t pos="">dzimtene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">isänmaanrakkaus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tēvzemes mīlestība</t>
      </tg>
    </mg>
 </e>
@@ -25968,11 +25395,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">kāja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">jalka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_PŪʼDÕZ" pos="N">tīʼedõz</t>
-       <re>mittayksikkö</re>
+       <t pos="">pēda</t>
+       <re>mērvienība</re>
        </tCtn>
      </tg>
    </mg>
@@ -26454,6 +25892,10 @@
      <tg xml:lang="lav">
        <t pos="">rokas dzirnavas</t>
        <t pos="">dzirnas</t>
+       <t pos="">rokas dzirnavas</t>
+       <t pos="">dzirnas</t>
+       <t pos="">rokas dzirnavas</t>
+       <t pos="">dzirnas</t>
      </tg>
    </mg>
 </e>
@@ -26478,18 +25920,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">bezdelīgactiņa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">jauhojuoma</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skābputras dzēriens</t>
      </tg>
    </mg>
 </e>
@@ -26549,8 +25979,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">upes pieteka</t>
-       <t pos="">upes atteka</t>
        <t pos="">pieteka</t>
      </tg>
    </mg>
@@ -26881,30 +26309,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">jouluaatto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">Pirmie Ziemassvētki</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">jouluaika</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">Ziemassvētku laiks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">jouluilta</l>
      <stg> <st/>
      </stg>
@@ -26941,18 +26345,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">joululahja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">Ziemassvētku dāvana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">joulupukki</l>
      <stg> <st/>
      </stg>
@@ -26982,12 +26374,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">atspere</t>
-       <tCtn>
-       <t Contlex="N_IRM" pos="N">lasktõblūok</t>
-       <re>ase</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">jousi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>ase</defNative>
+     <tg xml:lang="lav">
+       <t pos="">šaujamais loks</t>
      </tg>
    </mg>
 </e>
@@ -28007,6 +27407,8 @@
      <tg xml:lang="lav">
        <t pos="">biezums</t>
        <t pos="">resnums</t>
+       <t pos="">biezums</t>
+       <t pos="">resnums</t>
      </tg>
    </mg>
 </e>
@@ -28019,18 +27421,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">rīboņa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">jyrkänne</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">stāvs krasts</t>
      </tg>
    </mg>
 </e>
@@ -28167,6 +27557,16 @@
 </e>
 <e>
    <lg>
+     <l pos="N">jälkeiset</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">jälkeläinen</l>
      <stg> <st/>
      </stg>
@@ -28210,7 +27610,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">saldais ēdiens</t>
        <t pos="">deserts</t>
        <t pos="">saldais ēdiens</t>
        <t pos="">saldēdiens</t>
@@ -28363,18 +27762,6 @@
        <t pos="">kārta</t>
        <t pos="">secība</t>
        <t pos="">kārtība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">järjestyslukusana</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kārtas skaitļa vārds</t>
      </tg>
    </mg>
 </e>
@@ -28658,6 +28045,8 @@
      <tg xml:lang="lav">
        <t pos="">peldošs ledusgabals</t>
        <t pos="">leduslauks</t>
+       <t pos="">peldošs ledusgabals</t>
+       <t pos="">leduslauks</t>
      </tg>
    </mg>
 </e>
@@ -28669,6 +28058,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">peldošs ledusgabals</t>
+       <t pos="">leduslauks</t>
        <t pos="">peldošs ledusgabals</t>
        <t pos="">leduslauks</t>
      </tg>
@@ -28705,12 +28096,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KÄPĀ" pos="N">jeibokā</t>
-       <re>laiturin suojana</re>
-       </tCtn>
+   <mg> <defNative>laiturin suojana</defNative>
+     <tg xml:lang="lav">
+       <t pos="">ledgriezis</t>
      </tg>
    </mg>
 </e>
@@ -28917,18 +28305,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kaakeliuuni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">podiņu krāsns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kaakki</l>
      <stg> <st/>
      </stg>
@@ -29037,18 +28413,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kaalipenkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kāpostu dobe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kaalipiirakka</l>
      <stg> <st/>
      </stg>
@@ -29079,6 +28443,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">dzelzīte</t>
+       <t pos="">kapājamā dzelzs</t>
+       <t pos="">dzelzīte</t>
+       <t pos="">kapājamā dzelzs</t>
        <t pos="">dzelzīte</t>
        <t pos="">kapājamā dzelzs</t>
      </tg>
@@ -29756,18 +29124,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kaidekoukku</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">šķietošanas āķis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kaidepuu</l>
      <stg> <st/>
      </stg>
@@ -30083,18 +29439,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kakluuni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">podiņu krāsns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kaksimielisyys</l>
      <stg> <st/>
      </stg>
@@ -30114,18 +29458,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">dublikāts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kaksoisleuka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dubultzods</t>
      </tg>
    </mg>
 </e>
@@ -30246,30 +29578,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">zivju ķidas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kalanjalostus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zivju pārstrāde</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kalanmäti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zivju ikri</t>
      </tg>
    </mg>
 </e>
@@ -30712,6 +30020,8 @@
        <t pos="">kaļķakmens</t>
        <t pos="">dolomīts</t>
        <t pos="">kaļķakmens</t>
+       <t pos="">dolomīts</t>
+       <t pos="">kaļķakmens</t>
      </tg>
    </mg>
 </e>
@@ -30947,6 +30257,16 @@
      <tg xml:lang="lav">
        <t pos="">čaula</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">kalvosin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
    </mg>
 </e>
 <e>
@@ -31520,18 +30840,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kangaskengät</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">audekla kurpes</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kangaskorte</l>
      <stg> <st/>
      </stg>
@@ -31684,7 +30992,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">auduma audējs</t>
        <t pos="">audējs</t>
        <t pos="">vēveris</t>
      </tg>
@@ -31970,18 +31277,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">deputāts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kansaneläke</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vecuma pensija</t>
      </tg>
    </mg>
 </e>
@@ -34575,18 +33870,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">katku</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">gruzduma smaka</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">katoavaisuus</l>
      <stg> <st/>
      </stg>
@@ -34893,6 +34176,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">griestu sija</t>
+       <t pos="">vērbaļķis</t>
        <t pos="">griestu sija</t>
        <t pos="">vērbaļķis</t>
      </tg>
@@ -35338,19 +34623,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kauppaosasto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tirdzniecības nodaļa</t>
-       <t pos="">komercnodaļa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kauppapankki</l>
      <stg> <st/>
      </stg>
@@ -35520,30 +34792,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kaurajauho</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">auzu milti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kauransiemen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">auzu sēkla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kaurapelto</l>
      <stg> <st/>
      </stg>
@@ -35562,6 +34810,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">zebenieks</t>
+       <t pos="">siena maiss</t>
+       <t pos="">zebenieks</t>
+       <t pos="">siena maiss</t>
        <t pos="">zebenieks</t>
        <t pos="">siena maiss</t>
      </tg>
@@ -35588,18 +34840,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sezona</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kausijulkaisu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">periodiskis izdevums</t>
      </tg>
    </mg>
 </e>
@@ -35641,18 +34881,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kavalakärpässieni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zaļā mušmire</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kavaljeeri</l>
      <stg> <st/>
      </stg>
@@ -35669,11 +34897,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>neuleessa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_LĒʼMI" pos="N">ǭʼntimi</t>
-       <re>neuleessa</re>
+       <t pos="">noraukums</t>
+       <re>adīšanā</re>
        </tCtn>
      </tg>
    </mg>
@@ -35896,12 +35124,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">vakarlēpis</t>
-       <tCtn>
-       <t Contlex="N_AKKIJI" pos="N">vērbikšiji</t>
-       <re>ammatti</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">kehrääjä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>ammatti</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vērpējs</t>
      </tg>
    </mg>
 </e>
@@ -36395,18 +35631,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kelta-apila</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zeltainais āboliņš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">keltahapero</l>
      <stg> <st/>
      </stg>
@@ -36510,18 +35734,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">smiltene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">keltavästäräkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dzeltenā cielava</t>
      </tg>
    </mg>
 </e>
@@ -36823,7 +36035,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">salds krējums</t>
        <t pos="">krējums</t>
      </tg>
    </mg>
@@ -37229,18 +36440,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">keskitysleiri</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">koncentrācijas nometne</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">keskiviikko</l>
      <stg> <st/>
      </stg>
@@ -37260,18 +36459,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pusnakts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">keskonen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">nelaikā dzimušais</t>
      </tg>
    </mg>
 </e>
@@ -37390,18 +36577,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kesykyyhky</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mājas balodis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kesä</l>
      <stg> <st/>
      </stg>
@@ -37471,6 +36646,8 @@
      <tg xml:lang="lav">
        <t pos="">slietenis</t>
        <t pos="">vasaras virtuve</t>
+       <t pos="">slietenis</t>
+       <t pos="">vasaras virtuve</t>
      </tg>
    </mg>
 </e>
@@ -37528,12 +36705,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_ĀIGA" pos="N">sõʼvvõvaʼitāiga</t>
-       <re>koulussa</re>
-       </tCtn>
+   <mg> <defNative>koulussa</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vasaras brīvlaiks</t>
      </tg>
    </mg>
 </e>
@@ -37591,12 +36765,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_NEITST" pos="N">sõʼvvineitst</t>
-       <re>nainen</re>
-       </tCtn>
+   <mg> <defNative>nainen</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vasaras strādniece</t>
      </tg>
    </mg>
 </e>
@@ -37606,12 +36777,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PȮIS" pos="N">sõʼvvipȯis</t>
-       <re>mies</re>
-       </tCtn>
+   <mg> <defNative>mies</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vasaras strādnieks</t>
      </tg>
    </mg>
 </e>
@@ -37683,6 +36851,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">zaķskābene</t>
+       <t pos="">zaķkāposti</t>
        <t pos="">zaķskābene</t>
        <t pos="">zaķkāposti</t>
      </tg>
@@ -37776,18 +36946,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">keuhkopussintulehdus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pleiras iekaisums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">keuhkoputkentulehdus</l>
      <stg> <st/>
      </stg>
@@ -37860,18 +37018,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">keulavannas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">priekšvadnis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">keveys</l>
      <stg> <st/>
      </stg>
@@ -37915,18 +37061,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pavasaris</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kevätaika</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pavasara laiks</t>
      </tg>
    </mg>
 </e>
@@ -37989,18 +37123,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sīpolloks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kevätsää</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pavasarīgs laiks</t>
      </tg>
    </mg>
 </e>
@@ -38102,18 +37224,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kielenhuolto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">valodas normēšana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kielenkääntäjä</l>
      <stg> <st/>
      </stg>
@@ -38131,12 +37241,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĒĻ" pos="N">kēļ</t>
-       <re>elin</re>
-       </tCtn>
+   <mg> <defNative>elin</defNative>
+     <tg xml:lang="lav">
+       <t pos="">mēle</t>
      </tg>
    </mg>
 </e>
@@ -38146,12 +37253,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĒĻ" pos="N">kēļ</t>
-       <re>kommunikointijärjestelmä</re>
-       </tCtn>
+   <mg> <defNative>kommunikointijärjestelmä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">valoda</t>
      </tg>
    </mg>
 </e>
@@ -38161,12 +37265,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĒĻ" pos="N">kēļ</t>
-       <re>soittimessa</re>
-       </tCtn>
+   <mg> <defNative>soittimessa</defNative>
+     <tg xml:lang="lav">
+       <t pos="">stīga</t>
      </tg>
    </mg>
 </e>
@@ -38179,18 +37280,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">valodas teritorija</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kieliasema</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">valodas pozīcija</t>
      </tg>
    </mg>
 </e>
@@ -38227,18 +37316,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">valodu skola</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kielikysymys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">valodas jautājums</t>
      </tg>
    </mg>
 </e>
@@ -38484,6 +37561,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vītne</t>
+       <t pos="">vijums</t>
        <t pos="">vītne</t>
        <t pos="">vijums</t>
        <t pos="">cirta</t>
@@ -39210,18 +38289,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kimo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">palss zirgs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kimono</l>
      <stg> <st/>
      </stg>
@@ -39757,12 +38824,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_TORĪ" pos="N">kirī</t>
-       <re>lehmä</re>
-       </tCtn>
+   <mg> <defNative>lehmä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">raibaļa</t>
      </tg>
    </mg>
 </e>
@@ -39879,18 +38943,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kirjosieppo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">melnais mušķērājs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kirjovyö</l>
      <stg> <st/>
      </stg>
@@ -39961,18 +39013,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pērminderis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kirkollisverot</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baznīcas nodevas</t>
      </tg>
    </mg>
 </e>
@@ -40293,20 +39333,7 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">cirvja kāta caurums</t>
        <t pos="">piets</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kirveenterä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">cirvja pēda</t>
      </tg>
    </mg>
 </e>
@@ -40543,7 +39570,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav"/>
-       <t pos="">pirtskrāsns</t>
    </mg>
 </e>
 <e>
@@ -40784,7 +39810,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">akmens pamati</t>
        <t pos="">pamati</t>
      </tg>
    </mg>
@@ -40804,18 +39829,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kivikkoranta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">akmeņaina jūrmala</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kivilaji</l>
      <stg> <st/>
      </stg>
@@ -40823,18 +39836,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">iezis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kivimurska</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">akmens šķembas</t>
      </tg>
    </mg>
 </e>
@@ -40859,18 +39860,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">lucītis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kiviperustus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">akmens pamati</t>
      </tg>
    </mg>
 </e>
@@ -40955,6 +39944,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">šautene</t>
+       <t pos="">plinte</t>
        <t pos="">šautene</t>
        <t pos="">plinte</t>
      </tg>
@@ -41378,12 +40369,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KUȚĀ" pos="N">kuțā</t>
-       <re>hellittely</re>
-       </tCtn>
+   <mg> <defNative>hellittely</defNative>
+     <tg xml:lang="lav">
+       <t pos="">suņuks</t>
      </tg>
    </mg>
 </e>
@@ -41504,18 +40492,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">suņu roze</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">koiranvirka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">suņa darbs</t>
      </tg>
    </mg>
 </e>
@@ -41642,42 +40618,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">koivunoksa</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">bērza zars</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">koivupuu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">bērzkoks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">koivutiheikkö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">bērzu biežņa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">koju</l>
      <stg> <st/>
      </stg>
@@ -41745,7 +40685,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">priekšvadnis</t>
        <t pos="">bugšprits</t>
      </tg>
    </mg>
@@ -42211,18 +41150,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kolmiliuskaläppä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">trīsviru vārstulis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kolminaisuus</l>
      <stg> <st/>
      </stg>
@@ -42647,18 +41574,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kompass</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kompastuskivi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">klupšanas akmens</t>
      </tg>
    </mg>
 </e>
@@ -44184,6 +43099,8 @@
      <tg xml:lang="lav">
        <t pos="">augstskola</t>
        <t pos="">universitāte</t>
+       <t pos="">augstskola</t>
+       <t pos="">universitāte</t>
      </tg>
    </mg>
 </e>
@@ -44267,11 +43184,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">procenti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">korko</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>jalkineessa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ĀNKAŖ" pos="N">toppiļ</t>
-       <re>jalkineessa</re>
+       <t pos="">papēdis</t>
+       <re>apaviem</re>
        </tCtn>
      </tg>
    </mg>
@@ -44285,18 +43213,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">likme</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">korkokengät</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">augstpapēžu kurpes</t>
      </tg>
    </mg>
 </e>
@@ -44983,6 +43899,8 @@
      <tg xml:lang="lav">
        <t pos="">slietenis</t>
        <t pos="">vasaras virtuve</t>
+       <t pos="">slietenis</t>
+       <t pos="">vasaras virtuve</t>
      </tg>
    </mg>
 </e>
@@ -45099,18 +44017,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kotiolot</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mājas apstākļi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kotiopettaja</l>
      <stg> <st/>
      </stg>
@@ -45131,6 +44037,8 @@
      <tg xml:lang="lav">
        <t pos="">dzimtā vieta</t>
        <t pos="">mājvieta</t>
+       <t pos="">dzimtā vieta</t>
+       <t pos="">mājvieta</t>
      </tg>
    </mg>
 </e>
@@ -45142,6 +44050,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">dzimtā vieta</t>
+       <t pos="">mājvieta</t>
        <t pos="">dzimtā vieta</t>
        <t pos="">mājvieta</t>
      </tg>
@@ -45218,6 +44128,8 @@
        <t pos="">mājinieks</t>
        <t pos="">mājas saime</t>
        <t pos="">saimes ļaudis</t>
+       <t pos="">mājas saime</t>
+       <t pos="">saimes ļaudis</t>
      </tg>
    </mg>
 </e>
@@ -45286,18 +44198,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">koukkunenä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">līks deguns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">koukkuselkä</l>
      <stg> <st/>
      </stg>
@@ -45341,18 +44241,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">mācību automobilis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">koulujuhla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skolas sarīkojums</t>
      </tg>
    </mg>
 </e>
@@ -45559,12 +44447,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_TIDĀR" pos="N">skūolsõzār</t>
-       <re>tytöstä</re>
-       </tCtn>
+   <mg> <defNative>tytöstä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">skolasbiedrene</t>
      </tg>
    </mg>
 </e>
@@ -45574,12 +44459,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PIʼŅ" pos="N">skūolveʼļ</t>
-       <re>pojasta</re>
-       </tCtn>
+   <mg> <defNative>pojasta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">skolasbiedrs</t>
      </tg>
    </mg>
 </e>
@@ -45630,6 +44512,16 @@
        <t pos="">delna</t>
        <t pos="">sauja</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">kourallinen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
    </mg>
 </e>
 <e>
@@ -45702,18 +44594,6 @@
        <t pos="">galoda</t>
        <t pos="">strīķis</t>
        <t pos="">galoda</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kovasydämisyys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">cietsirdība</t>
      </tg>
    </mg>
 </e>
@@ -46589,7 +45469,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">ziedu pušķis</t>
        <t pos="">buķete</t>
      </tg>
    </mg>
@@ -46605,18 +45484,6 @@
        <t pos="">naudasmaks</t>
        <t pos="">zutnis</t>
        <t pos="">naudasmaks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kukkaseppele</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ziedu vainags</t>
      </tg>
    </mg>
 </e>
@@ -46836,18 +45703,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">transportlīdzeklis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kulkuneuvot</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">satiksmes līdzekļi</t>
      </tg>
    </mg>
 </e>
@@ -47285,18 +46140,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kumikiekko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">gumijas disks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kumina</l>
      <stg> <st/>
      </stg>
@@ -47352,6 +46195,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">spoks</t>
+       <t pos="">ķēms</t>
        <t pos="">spoks</t>
        <t pos="">ķēms</t>
        <t pos="">spoks</t>
@@ -47694,18 +46539,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kuokkavieras</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">neaicināts ciemiņš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kuola</l>
      <stg> <st/>
      </stg>
@@ -48012,7 +46845,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">kravas auto</t>
        <t pos="">kravas automobilis</t>
      </tg>
    </mg>
@@ -48074,7 +46906,7 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kora vadītājs</t>
-       <t pos="">diriģents</t>
+       <t pos="">kordiriģents</t>
        <t pos="">kora vadītājs</t>
        <t pos="">kordiriģents</t>
      </tg>
@@ -48154,6 +46986,8 @@
        <t pos="">vara vitriols</t>
        <t pos="">vara sulfāts</t>
        <t pos="">vara vitriols</t>
+       <t pos="">vara sulfāts</t>
+       <t pos="">vara vitriols</t>
      </tg>
    </mg>
 </e>
@@ -48165,6 +46999,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vara vitriols</t>
+       <t pos="">vara sulfāts</t>
        <t pos="">vara vitriols</t>
        <t pos="">vara sulfāts</t>
        <t pos="">vara vitriols</t>
@@ -48467,16 +47303,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">kurri</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav"/>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">kursiivi</l>
      <stg> <st/>
      </stg>
@@ -48689,12 +47515,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĪNDÕR" pos="N">kuttõr</t>
-       <re>purjealustyyppi</re>
-       </tCtn>
+   <mg> <defNative>purjealustyyppi</defNative>
+     <tg xml:lang="lav">
+       <t pos="">kuteris</t>
      </tg>
    </mg>
 </e>
@@ -48729,12 +47552,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_LIESTĀ" pos="N">jemāndliestā</t>
-       <re>naaras</re>
-       </tCtn>
+   <mg> <defNative>naaras</defNative>
+     <tg xml:lang="lav">
+       <t pos="">bute ar ikriem</t>
      </tg>
    </mg>
 </e>
@@ -48920,6 +47740,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">karsonis</t>
+       <t pos="">drudzis</t>
        <t pos="">karsonis</t>
        <t pos="">drudzis</t>
        <t pos="">karsonis</t>
@@ -49490,11 +48312,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">cidonija</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">kvitteni</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>hedelmä</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_UMĀRZ" pos="N">tsidōnijumārz</t>
-       <re>hedelmä</re>
+       <t pos="">cidonija</t>
+       <re>auglis</re>
        </tCtn>
      </tg>
    </mg>
@@ -49797,18 +48630,6 @@
 <e>
    <lg>
      <l pos="N">kyläaukea</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ciema klajums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">kyläaukio</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -50144,12 +48965,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_TŪĻI" pos="N">ūmi</t>
-       <re>ruoasta uunissa tai paistinpannulla</re>
-       </tCtn>
+   <mg> <defNative>ruoasta uunissa tai paistinpannulla</defNative>
+     <tg xml:lang="lav">
+       <t pos="">cepšanās</t>
      </tg>
    </mg>
 </e>
@@ -50346,12 +49164,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_ĀIGA" pos="N">kīndõrāiga</t>
-       <re>pituusmitta</re>
-       </tCtn>
+   <mg> <defNative>pituusmitta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">olekts mērs</t>
      </tg>
    </mg>
 </e>
@@ -50434,11 +49249,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>auran</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_KǬRAND" pos="N">käʼdakātõb</t>
-       <re>auran</re>
+       <t pos="">rokturis</t>
+       <re>arklam</re>
        </tCtn>
      </tg>
    </mg>
@@ -50499,6 +49314,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">zaķskābene</t>
+       <t pos="">zaķkāposti</t>
        <t pos="">zaķskābene</t>
        <t pos="">zaķkāposti</t>
      </tg>
@@ -50630,12 +49447,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">čiekurs</t>
-       <tCtn>
-       <t Contlex="N_BRĪ" pos="N">vȯi</t>
-       <re>verkonkutomisväline</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">käpy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>verkonkutomisväline</defNative>
+     <tg xml:lang="lav">
+       <t pos="">saiva</t>
      </tg>
    </mg>
 </e>
@@ -50799,18 +49624,8 @@
      <tg xml:lang="lav">
        <t pos="">purns</t>
        <t pos="">šņukurs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">käry</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">gruzduma smaka</t>
+       <t pos="">purns</t>
+       <t pos="">šņukurs</t>
      </tg>
    </mg>
 </e>
@@ -50894,6 +49709,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">rokas dzirnavas</t>
+       <t pos="">dzirnas</t>
+       <t pos="">rokas dzirnavas</t>
+       <t pos="">dzirnas</t>
        <t pos="">rokas dzirnavas</t>
        <t pos="">dzirnas</t>
      </tg>
@@ -50992,18 +49811,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">jēdziens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">käsiterä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">plauksta</t>
      </tg>
    </mg>
 </e>
@@ -51340,18 +50147,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">lietošanas iespējas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">käyttötaide</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">lietišķā māksla</t>
      </tg>
    </mg>
 </e>
@@ -52083,18 +50878,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lahopuu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">satrūdējis koks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lahtari</l>
      <stg> <st/>
      </stg>
@@ -52258,30 +51041,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lainoppi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">likumu mācība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">lainrikkoja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">likumpārkāpējs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lainsäädäntä</l>
      <stg> <st/>
      </stg>
@@ -52367,7 +51126,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">slaists</t>
        <t pos="">sliņķis</t>
      </tg>
    </mg>
@@ -52399,18 +51157,6 @@
 <e>
    <lg>
      <l pos="N">laitainen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sānvējš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">laitatuuli</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -52546,6 +51292,9 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">kuģa galdnieks</t>
+       <t pos="">namdaris</t>
+       <t pos="">cimermanis</t>
        <t pos="">kuģa galdnieks</t>
        <t pos="">namdaris</t>
        <t pos="">cimermanis</t>
@@ -52950,18 +51699,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lammaskarsina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aitu aizgalds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lammaskatras</l>
      <stg> <st/>
      </stg>
@@ -52969,18 +51706,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">aitu ganāmpulks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">lammaslaidun</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aitu aploks</t>
      </tg>
    </mg>
 </e>
@@ -53099,11 +51824,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>langasta tehty silmukkapyydys</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ǬʼRÕN" pos="N">lamātõkspaʼggõl</t>
-       <re>langasta tehty silmukkapyydys</re>
+       <t pos="">cilpa</t>
+       <re>lamatas</re>
        </tCtn>
      </tg>
    </mg>
@@ -53118,18 +51843,6 @@
      <tg xml:lang="lav">
        <t pos="">dzija</t>
        <t pos="">diegs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">lanka-aita</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">stiepļu žogs</t>
      </tg>
    </mg>
 </e>
@@ -53408,18 +52121,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lapsenlapset</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mazbērni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lapsenlapsi</l>
      <stg> <st/>
      </stg>
@@ -53509,11 +52210,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>materiaali</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_FAKT" pos="N">glǭz</t>
-       <re>materiaali</re>
+       <t pos="">stikls</t>
+       <re>materiāls</re>
        </tCtn>
      </tg>
    </mg>
@@ -53524,11 +52225,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>tuote</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_FAKT" pos="N">glǭz</t>
-       <re>tuote</re>
+       <t pos="">stikls</t>
+       <re>izstrādājums</re>
        </tCtn>
      </tg>
    </mg>
@@ -53539,12 +52240,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_FAKT" pos="N">glǭz</t>
-       <re>astia</re>
-       </tCtn>
+   <mg> <defNative>astia</defNative>
+     <tg xml:lang="lav">
+       <t pos="">glāze</t>
      </tg>
    </mg>
 </e>
@@ -53811,18 +52509,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lastenlapset</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mazbērni</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lastenleikki</l>
      <stg> <st/>
      </stg>
@@ -53980,18 +52666,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lattajalka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">plakanā pēda</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lattia</l>
      <stg> <st/>
      </stg>
@@ -54072,18 +52746,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">grīdas sprauga</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">latuskajalka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">plakanā pēda</t>
      </tg>
    </mg>
 </e>
@@ -54232,14 +52894,12 @@
 </e>
 <e>
    <lg>
-     <l pos="N">laukki</l>
+     <l pos="N">laukka</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="lav">
-       <t pos="">lauks zirgs</t>
-     </tg>
+     <tg xml:lang="lav"/>
    </mg>
 </e>
 <e>
@@ -54583,6 +53243,8 @@
      <tg xml:lang="lav">
        <t pos="">dzegužpuķe</t>
        <t pos="">smaržīgā naktsvijole</t>
+       <t pos="">dzegužpuķe</t>
+       <t pos="">smaržīgā naktsvijole</t>
      </tg>
    </mg>
 </e>
@@ -54607,18 +53269,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">govs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">lehmälaidun</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">govju aploks</t>
      </tg>
    </mg>
 </e>
@@ -54890,18 +53540,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">lauva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">leijonahäkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">lauvas krātiņš</t>
      </tg>
    </mg>
 </e>
@@ -55456,31 +54094,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">leivänmurunen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">maizes druska</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">leivänpala</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">maizes ņuka</t>
-       <t pos="">maizes gabals</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lekkeri</l>
      <stg> <st/>
      </stg>
@@ -55828,18 +54441,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">alksnis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">leppähalko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">alkšņa pagale</t>
      </tg>
    </mg>
 </e>
@@ -56268,18 +54869,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">izplatība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">leviäminen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">izplatīšanās</t>
      </tg>
    </mg>
 </e>
@@ -56731,18 +55320,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lihavointi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">trekni burti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lihotuseläin</l>
      <stg> <st/>
      </stg>
@@ -57157,12 +55734,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĪNDÕR" pos="N">klīvõr</t>
-       <re>purje</re>
-       </tCtn>
+   <mg> <defNative>purje</defNative>
+     <tg xml:lang="lav">
+       <t pos="">klīvers</t>
      </tg>
    </mg>
 </e>
@@ -57430,12 +56004,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">līnija</t>
-       <tCtn>
-       <t Contlex="N_ÄʼGGÕZ" pos="N">stiʼggõz</t>
-       <re>metsässä</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">linja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>metsässä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">stiga</t>
      </tg>
    </mg>
 </e>
@@ -57461,19 +56043,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">autobuss</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">linja-autoasema</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">autobusu stacija</t>
-       <t pos="">autoosta</t>
      </tg>
    </mg>
 </e>
@@ -57769,18 +56338,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">biļešu pārdevējs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">lipunnosto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">karoga uzvilkšana</t>
      </tg>
    </mg>
 </e>
@@ -58454,18 +57011,8 @@
        <t pos="">beigas</t>
        <t pos="">gals</t>
        <t pos="">beigas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">loppukesä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēla vasara</t>
+       <t pos="">gals</t>
+       <t pos="">beigas</t>
      </tg>
    </mg>
 </e>
@@ -58510,18 +57057,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">loppusyksy</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēls rudens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lopputuote</l>
      <stg> <st/>
      </stg>
@@ -58542,18 +57077,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">gala eksāmens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">loppuyö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">nakts rīta pusē</t>
      </tg>
    </mg>
 </e>
@@ -58614,18 +57137,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pļāpas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">lorvailija</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">slaists</t>
      </tg>
    </mg>
 </e>
@@ -58719,28 +57230,13 @@
 </e>
 <e>
    <lg>
-     <l pos="N">lounaisvirtaus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dienvidrietumu straume</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">lounas</l>
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_LĒŅTŠ" pos="N">lēņtš</t>
-       <re>ilmansuunta</re>
-       </tCtn>
+   <mg> <defNative>ilmansuunta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">dienvidrietumi</t>
      </tg>
    </mg>
 </e>
@@ -58963,11 +57459,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">skaitlis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">luku</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>kirjassa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_TIDĀR" pos="N">pǟkabāl</t>
-       <re>kirjassa</re>
+       <t pos="">nodaļa</t>
+       <re>grāmatā</re>
        </tCtn>
      </tg>
    </mg>
@@ -59170,12 +57677,10 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KIM" pos="N">luʼmmom</t>
-       <re>naispuolinen</re>
-       </tCtn>
+   <mg> <defNative>naispuolinen</defNative>
+     <tg xml:lang="lav">
+       <t pos="">sniega sieva</t>
+       <t pos="">sniega vīrs</t>
      </tg>
    </mg>
 </e>
@@ -59248,12 +57753,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IRM" pos="N">lūod</t>
-       <re>ilmansuunta</re>
-       </tCtn>
+   <mg> <defNative>ilmansuunta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">ziemeļrietumi</t>
      </tg>
    </mg>
 </e>
@@ -59337,12 +57839,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_DADŽĀ" pos="N">midžā</t>
-       <re>karhun</re>
-       </tCtn>
+   <mg> <defNative>karhun</defNative>
+     <tg xml:lang="lav">
+       <t pos="">midzenis</t>
      </tg>
    </mg>
 </e>
@@ -59391,6 +57890,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">raksturs</t>
+       <t pos="">daba</t>
        <t pos="">raksturs</t>
        <t pos="">daba</t>
      </tg>
@@ -59890,6 +58391,26 @@
      </stg>
    </lg>
    <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">luumu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">luumu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
      <tg xml:lang="lav">
        <t pos="">plūme</t>
      </tg>
@@ -59917,6 +58438,26 @@
      <tg xml:lang="lav">
        <t pos="">plūmju sula</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">luumupuu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">luumupuu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
    </mg>
 </e>
 <e>
@@ -60818,6 +59359,8 @@
      <tg xml:lang="lav">
        <t pos="">vārstulis</t>
        <t pos="">vārsts</t>
+       <t pos="">vārstulis</t>
+       <t pos="">vārsts</t>
        <t pos="">zvana mēle</t>
      </tg>
    </mg>
@@ -61066,18 +59609,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">löytötavara</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">atrasta lieta</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">maa</l>
      <stg> <st/>
      </stg>
@@ -61148,18 +59679,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pasaules turneja</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">maailmanloppu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pasaules gals</t>
      </tg>
    </mg>
 </e>
@@ -61247,18 +59766,6 @@
        <t pos="">apriņķis</t>
        <t pos="">apgabals</t>
        <t pos="">apriņķis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">maakuntajohtaja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">apriņķa priekšnieks</t>
      </tg>
    </mg>
 </e>
@@ -63041,6 +61548,16 @@
 </e>
 <e>
    <lg>
+     <l pos="N">makuaisti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">makuuhuone</l>
      <stg> <st/>
      </stg>
@@ -63292,11 +61809,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>hedelmä</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ANALĪZ" pos="N">mandarīn</t>
-       <re>hedelmä</re>
+       <t pos="">mandarīns</t>
+       <re>auglis</re>
        </tCtn>
      </tg>
    </mg>
@@ -63307,11 +61824,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>virkamies keisariajan Kiinassa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ANALĪZ" pos="N">mandarīn</t>
-       <re>virkamies keisariajan Kiinassa</re>
+       <t pos="">mandarīns</t>
+       <re>ķīniešu augstmanis</re>
        </tCtn>
      </tg>
    </mg>
@@ -63432,6 +61949,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">elsiņš</t>
+       <t pos="">krūteža</t>
        <t pos="">elsiņš</t>
        <t pos="">krūteža</t>
      </tg>
@@ -63637,12 +62156,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_SIDĀM" pos="N">šinēl</t>
-       <re>sotilaan päällystakki</re>
-       </tCtn>
+   <mg> <defNative>sotilaan päällystakki</defNative>
+     <tg xml:lang="lav">
+       <t pos="">šinelis</t>
      </tg>
    </mg>
 </e>
@@ -63744,18 +62260,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">marjakori</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ogu groziņš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">marjamehu</l>
      <stg> <st/>
      </stg>
@@ -63823,18 +62327,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">ogotājs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">marjastus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ogošana</t>
      </tg>
    </mg>
 </e>
@@ -64137,18 +62629,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">masts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mastonjalka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">masta pēda</t>
      </tg>
    </mg>
 </e>
@@ -64792,18 +63272,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">mehiläishoito</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">biškopība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">mehiläiskuhnuri</l>
      <stg> <st/>
      </stg>
@@ -64816,25 +63284,12 @@
 </e>
 <e>
    <lg>
-     <l pos="N">mehiläiskuningatar</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">bišu māte</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">mehiläisparvi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">bišu spiets</t>
        <t pos="">bišu saime</t>
        <t pos="">bišu spiets</t>
        <t pos="">spiets</t>
@@ -65107,19 +63562,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">meningiitti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">smadzeņu plēves iekaisums</t>
-       <t pos="">meningīts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">menneisyys</l>
      <stg> <st/>
      </stg>
@@ -65144,18 +63586,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">meno-paluulippu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">biļete turp un atpakaļ</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">menoerä</l>
      <stg> <st/>
      </stg>
@@ -65163,18 +63593,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">izdevumi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">menopaluu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">turp un atpakaļ</t>
      </tg>
    </mg>
 </e>
@@ -65633,18 +64051,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">merituuli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">jūras vējš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">meritähti</l>
      <stg> <st/>
      </stg>
@@ -65927,18 +64333,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">metallikiila</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dzelzs ķīlis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">metallilanka</l>
      <stg> <st/>
      </stg>
@@ -66156,18 +64550,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">stirna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">metsäkyyhkynen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">meža balodis</t>
      </tg>
    </mg>
 </e>
@@ -66678,6 +65060,8 @@
        <t pos="">patvaļa</t>
        <t pos="">vara</t>
        <t pos="">patvaļa</t>
+       <t pos="">vara</t>
+       <t pos="">patvaļa</t>
      </tg>
    </mg>
 </e>
@@ -66714,18 +65098,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">vīru koris</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">mieskvartetti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vīriešu kvartets</t>
      </tg>
    </mg>
 </e>
@@ -67013,12 +65385,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_ĀIGAST" pos="N">milīts</t>
-       <re>organisaatio</re>
-       </tCtn>
+   <mg> <defNative>organisaatio</defNative>
+     <tg xml:lang="lav">
+       <t pos="">milicija</t>
      </tg>
    </mg>
 </e>
@@ -67028,12 +65397,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_ARĀGÕZ" pos="N">milītsõz</t>
-       <re>järjestysviranomainen</re>
-       </tCtn>
+   <mg> <defNative>järjestysviranomainen</defNative>
+     <tg xml:lang="lav">
+       <t pos="">milicis</t>
      </tg>
    </mg>
 </e>
@@ -67790,6 +66156,8 @@
      <tg xml:lang="lav">
        <t pos="">piesta</t>
        <t pos="">miezeris</t>
+       <t pos="">piesta</t>
+       <t pos="">miezeris</t>
      </tg>
    </mg>
 </e>
@@ -67875,18 +66243,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">senatne</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">muinaisihminen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">senais cilvēks</t>
      </tg>
    </mg>
 </e>
@@ -68379,12 +66735,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KALĀ" pos="N">kāndajikanā</t>
-       <re>kana</re>
-       </tCtn>
+   <mg> <defNative>kana</defNative>
+     <tg xml:lang="lav">
+       <t pos="">dējējvista</t>
      </tg>
    </mg>
 </e>
@@ -68421,18 +66774,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">niere</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">munuaisrasva</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">nieru tauki</t>
      </tg>
    </mg>
 </e>
@@ -68956,24 +67297,15 @@
 </e>
 <e>
    <lg>
-     <l pos="N">mustahaikara</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">melnais stārķis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">mustaherukka</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">jāņoga</t>
+       <t pos="">upene</t>
+       <t pos="">jāņoga</t>
        <t pos="">upene</t>
        <t pos="">jāņoga</t>
        <t pos="">upene</t>
@@ -68988,6 +67320,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">jāņogu krūms</t>
+       <t pos="">upeņu krūms</t>
        <t pos="">jāņogu krūms</t>
        <t pos="">upeņu krūms</t>
      </tg>
@@ -69125,8 +67459,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">krauķis</t>
-       <t pos="">sējas vārna</t>
        <t pos="">krauķis</t>
        <t pos="">sējas vārna</t>
      </tg>
@@ -69374,18 +67706,6 @@
 <e>
    <lg>
      <l pos="N">muurahaiskeko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skudru pūznis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">muurahaispesä</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -69728,19 +68048,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">myyntiosasto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tirdzniecības nodaļa</t>
-       <t pos="">komercnodaļa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">myyntisopimus</l>
      <stg> <st/>
      </stg>
@@ -69772,42 +68079,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kurmja rakums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">myöhäisjuna</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēlais vilciens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">myöhäiskesä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēla vasara</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">myöhäissyksy</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēls rudens</t>
      </tg>
    </mg>
 </e>
@@ -70183,12 +68454,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_VȬRÕZ" pos="N">vǭrgõz</t>
-       <re>munasta</re>
-       </tCtn>
+   <mg> <defNative>munasta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vanckars</t>
      </tg>
    </mg>
 </e>
@@ -70541,42 +68809,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">nahkakäsineet</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ādas cimdi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">nahkapussi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ādas maiss</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">nahkasäkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ādas maiss</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">nahkiainen</l>
      <stg> <st/>
      </stg>
@@ -70605,12 +68837,10 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_NAI" pos="N">kuožānai</t>
-       <re>nainen</re>
-       </tCtn>
+   <mg> <defNative>nainen</defNative>
+     <tg xml:lang="lav">
+       <t pos="">preciniece</t>
+       <t pos="">prečumāte</t>
      </tg>
    </mg>
 </e>
@@ -71073,11 +69303,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_APPÕN" pos="N">maŗtsõn</t>
-       <re>mittayksikkö</re>
+       <t pos="">mārciņa</t>
+       <re>svara mērvienība</re>
        </tCtn>
      </tg>
    </mg>
@@ -71088,12 +69318,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_ǬʼRÕN" pos="N">maʼitsõn</t>
-       <re>mittayksikkö</re>
-       </tCtn>
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
+       <t pos="">mārciņa</t>
      </tg>
    </mg>
 </e>
@@ -71103,11 +69330,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_APPÕN" pos="N">märtsõn</t>
-       <re>mittayksikkö</re>
+       <t pos="">mārciņa</t>
+       <re>svara mērvienība</re>
        </tCtn>
      </tg>
    </mg>
@@ -71365,18 +69592,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">neljännestunti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">stundas ceturksnis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">neljännestuoppi</l>
      <stg> <st/>
      </stg>
@@ -71421,6 +69636,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kabatas lakatiņš</t>
+       <t pos="">kabatas lakats</t>
+       <t pos="">nēzdogs</t>
        <t pos="">kabatas lakats</t>
        <t pos="">nēzdogs</t>
      </tg>
@@ -71664,7 +69881,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">adīta jaka</t>
        <t pos="">jaka</t>
      </tg>
    </mg>
@@ -71970,18 +70186,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">pļava</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">niittykukat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pļavas puķes</t>
      </tg>
    </mg>
 </e>
@@ -74149,18 +72353,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ohrajauho</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">miežu milti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ohranjyvä</l>
      <stg> <st/>
      </stg>
@@ -74168,18 +72360,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">miežu grauds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ohransiemen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">miežu sēkla</t>
      </tg>
    </mg>
 </e>
@@ -74404,7 +72584,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">izrūnīts auns</t>
        <t pos="">auns</t>
      </tg>
    </mg>
@@ -74879,18 +73058,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">omaiset</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">piederīgie</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">omaisuus</l>
      <stg> <st/>
      </stg>
@@ -74903,18 +73070,6 @@
        <t pos="">īpašums</t>
        <t pos="">manta</t>
        <t pos="">bagātība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">omaisuusluettelo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">inventāra žurnāls</t>
      </tg>
    </mg>
 </e>
@@ -75061,18 +73216,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">ābeļzieds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">omenansiemen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ābola sēkla</t>
      </tg>
    </mg>
 </e>
@@ -75482,18 +73625,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">skolotājs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">opettajaopisto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skolotāju institūts</t>
      </tg>
    </mg>
 </e>
@@ -76103,6 +74234,8 @@
        <t pos="">dalība</t>
        <t pos="">piedalīšanās</t>
        <t pos="">dalība</t>
+       <t pos="">piedalīšanās</t>
+       <t pos="">dalība</t>
      </tg>
    </mg>
 </e>
@@ -76114,6 +74247,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">nomaksa</t>
+       <t pos="">pēcmaksa</t>
        <t pos="">nomaksa</t>
        <t pos="">pēcmaksa</t>
      </tg>
@@ -76151,6 +74286,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">piedalīšanās</t>
+       <t pos="">dalība</t>
        <t pos="">piedalīšanās</t>
        <t pos="">dalība</t>
      </tg>
@@ -76665,18 +74802,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ovisarana</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">durvju eņģe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">paahde</l>
      <stg> <st/>
      </stg>
@@ -76918,6 +75043,8 @@
      <tg xml:lang="lav">
        <t pos="">elsiņš</t>
        <t pos="">krūteža</t>
+       <t pos="">elsiņš</t>
+       <t pos="">krūteža</t>
      </tg>
    </mg>
 </e>
@@ -76962,18 +75089,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">paikallissijat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vietas locījumi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">paikannimi</l>
      <stg> <st/>
      </stg>
@@ -76992,6 +75107,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vieta</t>
+       <t pos="">stāvoklis</t>
        <t pos="">vieta</t>
        <t pos="">stāvoklis</t>
        <t pos="">vieta</t>
@@ -77064,18 +75181,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">ganu diena</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">paimenrakki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ganu krancis</t>
      </tg>
    </mg>
 </e>
@@ -77321,7 +75426,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">cepamā panna</t>
        <t pos="">panna</t>
        <t pos="">cepešpanna</t>
      </tg>
@@ -77622,6 +75726,8 @@
        <t pos="">biezums</t>
        <t pos="">resnums</t>
        <t pos="">biezums</t>
+       <t pos="">resnums</t>
+       <t pos="">biezums</t>
      </tg>
    </mg>
 </e>
@@ -77657,6 +75763,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">palatalizācija</t>
+       <t pos="">mīkstinājums</t>
        <t pos="">palatalizācija</t>
        <t pos="">mīkstinājums</t>
      </tg>
@@ -78334,12 +76442,10 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_AʼBLI" pos="N">klõkšimi</t>
-       <re>laite, kone</re>
-       </tCtn>
+   <mg> <defNative>laite, kone</defNative>
+     <tg xml:lang="lav">
+       <t pos="">ieslēgšana</t>
+       <t pos="">izslēgšana</t>
      </tg>
    </mg>
 </e>
@@ -78737,8 +76843,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">labošanās</t>
-       <t pos="">atgriešanās uz pareizā ceļa</t>
        <t pos="">labošanās</t>
        <t pos="">atteikšanās no sliktiem ieradumiem</t>
      </tg>
@@ -79273,12 +77377,23 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">pods</t>
        <t pos="">katls</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">pata</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>pelikortti</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_PADĀ" pos="N">padā</t>
-       <re>pelikortti</re>
+       <t pos="">pīķis</t>
+       <re>kāršu spēlē</re>
        </tCtn>
      </tg>
    </mg>
@@ -79469,11 +77584,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_APPÕN" pos="N">maŗtsõn</t>
-       <re>mittayksikkö</re>
+       <t pos="">mārciņa</t>
+       <re>svara mērvienība</re>
        </tCtn>
      </tg>
    </mg>
@@ -79484,12 +77599,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_ǬʼRÕN" pos="N">maʼitsõn</t>
-       <re>mittayksikkö</re>
-       </tCtn>
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
+       <t pos="">mārciņa</t>
      </tg>
    </mg>
 </e>
@@ -79499,11 +77611,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>mittayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_APPÕN" pos="N">märtsõn</t>
-       <re>mittayksikkö</re>
+       <t pos="">mārciņa</t>
+       <re>svara mērvienība</re>
        </tCtn>
      </tg>
    </mg>
@@ -79742,18 +77854,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">pellavakuontalo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">linu kodaļa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">pellavan sylkky</l>
      <stg> <st/>
      </stg>
@@ -79785,18 +77885,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">linsēkla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">pellavapaidat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">linu krekli</t>
      </tg>
    </mg>
 </e>
@@ -79961,18 +78049,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">peltisanko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skārda spainis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">peltiseppä</l>
      <stg> <st/>
      </stg>
@@ -79980,18 +78056,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">skārdnieks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">peltiuuni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skārda krāsns</t>
      </tg>
    </mg>
 </e>
@@ -80018,18 +78082,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">usne</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">peltoheinä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">lauka siens</t>
      </tg>
    </mg>
 </e>
@@ -80191,18 +78243,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">penis</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vīrieša dzimumorgāns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">penkki</l>
      <stg> <st/>
      </stg>
@@ -80210,6 +78250,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sols</t>
+       <t pos="">dobe</t>
+       <t pos="">vaga</t>
        <t pos="">dobe</t>
        <t pos="">vaga</t>
      </tg>
@@ -80693,30 +78735,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">perunankuori</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kartupeļa miza</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">perunanmukula</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kartupeļa bumbulis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">perunannoston aika</l>
      <stg> <st/>
      </stg>
@@ -80724,18 +78742,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kartupeļu novākšanas laiks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">perunansiemen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kartupeļu sēkla</t>
      </tg>
    </mg>
 </e>
@@ -81250,6 +79256,8 @@
        <t pos="">stūres kāts</t>
        <t pos="">pinne</t>
        <t pos="">stūres kāts</t>
+       <t pos="">pinne</t>
+       <t pos="">stūres kāts</t>
      </tg>
    </mg>
 </e>
@@ -81261,6 +79269,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">stūres kāts</t>
+       <t pos="">pinne</t>
        <t pos="">stūres kāts</t>
        <t pos="">pinne</t>
        <t pos="">stūres kāts</t>
@@ -81276,18 +79286,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">taisnā zarna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">perävannas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pakaļvadnis</t>
      </tg>
    </mg>
 </e>
@@ -81436,6 +79434,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">dzelzīte</t>
+       <t pos="">kapājamā dzelzs</t>
+       <t pos="">dzelzīte</t>
+       <t pos="">kapājamā dzelzs</t>
        <t pos="">dzelzīte</t>
        <t pos="">kapājamā dzelzs</t>
      </tg>
@@ -82428,12 +80430,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IRM" pos="N">drīv</t>
-       <re>laivat, veneet</re>
-       </tCtn>
+   <mg> <defNative>laivat, veneet</defNative>
+     <tg xml:lang="lav">
+       <t pos="">dreifs</t>
      </tg>
    </mg>
 </e>
@@ -82470,8 +80469,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">sīkums</t>
-       <t pos="">sīka lieta</t>
        <t pos="">nieks</t>
        <t pos="">sīkums</t>
        <t pos="">nieks</t>
@@ -82647,18 +80644,6 @@
      <tg xml:lang="lav">
        <t pos="">meitēns</t>
        <t pos="">skuķēns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">pikkuvarvas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mazais kājas pirksts</t>
      </tg>
    </mg>
 </e>
@@ -83090,6 +81075,8 @@
      <tg xml:lang="lav">
        <t pos="">piparu trauks</t>
        <t pos="">piparnīca</t>
+       <t pos="">piparu trauks</t>
+       <t pos="">piparnīca</t>
      </tg>
    </mg>
 </e>
@@ -83240,6 +81227,10 @@
      <tg xml:lang="lav">
        <t pos="">piliens</t>
        <t pos="">lāse</t>
+       <t pos="">piliens</t>
+       <t pos="">lāse</t>
+       <t pos="">piliens</t>
+       <t pos="">lāse</t>
      </tg>
    </mg>
 </e>
@@ -83347,12 +81338,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĒRA" pos="N">pitkākūora</t>
-       <re>jänis</re>
-       </tCtn>
+   <mg> <defNative>jänis</defNative>
+     <tg xml:lang="lav">
+       <t pos="">garausis</t>
      </tg>
    </mg>
 </e>
@@ -83394,18 +81382,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">pitkäveteisyys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">garlaicība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">pitragsilainen</l>
      <stg> <st/>
      </stg>
@@ -83434,12 +81410,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_FAKT-PL" pos="N">špitsõd</t>
-       <re>tekstiilituote</re>
-       </tCtn>
+   <mg> <defNative>tekstiilituote</defNative>
+     <tg xml:lang="lav">
+       <t pos="">mežģīnes</t>
      </tg>
    </mg>
 </e>
@@ -83497,12 +81470,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_MAKSĀ" pos="N">krețļā</t>
-       <re>viljan puhdistamiseksi</re>
-       </tCtn>
+   <mg> <defNative>viljan puhdistamiseksi</defNative>
+     <tg xml:lang="lav">
+       <t pos="">kretulis</t>
      </tg>
    </mg>
 </e>
@@ -83524,11 +81494,15 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>astian</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_PADĀ" pos="N">pierā</t>
-       <re>astian</re>
+       <t pos="">apakša</t>
+       <re>traukam</re>
+       </tCtn>
+       <tCtn>
+       <t pos="">dibens</t>
+       <re>traukam</re>
        </tCtn>
      </tg>
    </mg>
@@ -83566,7 +81540,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">kāju ikri</t>
        <t pos="">ikri</t>
      </tg>
    </mg>
@@ -83729,6 +81702,8 @@
      <tg xml:lang="lav">
        <t pos="">šķērskoks</t>
        <t pos="">šķērsbaļķis</t>
+       <t pos="">šķērskoks</t>
+       <t pos="">šķērsbaļķis</t>
      </tg>
    </mg>
 </e>
@@ -83741,6 +81716,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">šķērsdēlis</t>
+       <t pos="">šķērskoks</t>
+       <t pos="">šķērsbaļķis</t>
        <t pos="">šķērskoks</t>
        <t pos="">šķērsbaļķis</t>
      </tg>
@@ -84132,7 +82109,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">ceļgala skriemelis</t>
        <t pos="">ceļa kauls</t>
        <t pos="">ceļa bļodiņa</t>
      </tg>
@@ -84364,18 +82340,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">porkkana-perunamuhennos</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">burkānu un kartupeļu sautējums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">porkkanamehu</l>
      <stg> <st/>
      </stg>
@@ -84383,18 +82347,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">burkānu sula</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">porkkanapenkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">burkānu dobe</t>
      </tg>
    </mg>
 </e>
@@ -84438,18 +82390,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">porrasaskelma</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">trepju pakāpiens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">porrasaskelmat</l>
      <stg> <st/>
      </stg>
@@ -84457,30 +82397,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kāpņu laidums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">porraskaide</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">trepju margas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">porraskaiteet</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">trepju margas</t>
      </tg>
    </mg>
 </e>
@@ -85318,12 +83234,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">priekšsēdētājs</t>
-       <tCtn>
-       <t Contlex="N_NAI" pos="N">eʼḑḑinai</t>
-       <re>naisesta</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">puheenjohtaja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>naisesta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">priekšsēdētāja</t>
      </tg>
    </mg>
 </e>
@@ -85448,11 +83372,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">priekšsēdētājs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">puhemies</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>sulhasen</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_SĒJI" pos="N">jeʼddõviedāji</t>
-       <re>sulhasen</re>
+       <t pos="">vedējs</t>
+       <re>kāzās</re>
        </tCtn>
      </tg>
    </mg>
@@ -85947,18 +83882,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">pulu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mājas balodis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">pulveri</l>
      <stg> <st/>
      </stg>
@@ -86014,7 +83937,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">sarkanā jāņoga</t>
+       <t pos="">jāņoga</t>
+       <t pos="">upene</t>
+       <t pos="">jāņoga</t>
+       <t pos="">upene</t>
        <t pos="">jāņoga</t>
        <t pos="">upene</t>
      </tg>
@@ -86066,6 +83992,8 @@
      <tg xml:lang="lav">
        <t pos="">jāņogu krūms</t>
        <t pos="">upeņu krūms</t>
+       <t pos="">jāņogu krūms</t>
+       <t pos="">upeņu krūms</t>
      </tg>
    </mg>
 </e>
@@ -86095,18 +84023,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">punajuuripenkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">biešu dobe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">punakampela</l>
      <stg> <st/>
      </stg>
@@ -86126,18 +84042,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">bebrukārkliņš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">punakärpässieni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sarkanā mušmire</t>
      </tg>
    </mg>
 </e>
@@ -86281,11 +84185,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>lehmä</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_PADĀ" pos="N">puņā</t>
-       <re>lehmä</re>
+       <t pos="">sarķe</t>
+       <re>govs</re>
        </tCtn>
      </tg>
    </mg>
@@ -86429,11 +84333,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>rahayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_APPÕN" pos="N">maŗtsõn</t>
-       <re>rahayksikkö</re>
+       <t pos="">mārciņa</t>
+       <re>nauda</re>
        </tCtn>
      </tg>
    </mg>
@@ -86444,11 +84348,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>rahayksikkö</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_APPÕN" pos="N">märtsõn</t>
-       <re>rahayksikkö</re>
+       <t pos="">mārciņa</t>
+       <re>nauda</re>
        </tCtn>
      </tg>
    </mg>
@@ -86730,18 +84634,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">puolukkaterttu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">brūkleņu ķekars</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">puolustaja</l>
      <stg> <st/>
      </stg>
@@ -86902,6 +84794,8 @@
      <tg xml:lang="lav">
        <t pos="">burinieks</t>
        <t pos="">burukuģis</t>
+       <t pos="">burinieks</t>
+       <t pos="">burukuģis</t>
      </tg>
    </mg>
 </e>
@@ -86949,6 +84843,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">burinieks</t>
+       <t pos="">burukuģis</t>
        <t pos="">burinieks</t>
        <t pos="">burukuģis</t>
      </tg>
@@ -87236,18 +85132,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">puukiila</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">koka ķīlis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">puukko</l>
      <stg> <st/>
      </stg>
@@ -87344,19 +85228,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">puunhaara</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">koka žuburs</t>
-       <t pos="">sazarojums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">puunhakkaaja</l>
      <stg> <st/>
      </stg>
@@ -87370,18 +85241,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">puunkuori</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">koka miza</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">puunlatva</l>
      <stg> <st/>
      </stg>
@@ -87389,18 +85248,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">koka galotne</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">puunlatvat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">koku galotnes</t>
      </tg>
    </mg>
 </e>
@@ -87601,30 +85448,6 @@
      <tg xml:lang="lav">
        <t pos="">dārzs</t>
        <t pos="">pagalms</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">puutarhanhoito</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dārzkopība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">puutarhatalous</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dārzkopība</t>
      </tg>
    </mg>
 </e>
@@ -88007,6 +85830,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">bise</t>
+       <t pos="">šautene</t>
+       <t pos="">plinte</t>
        <t pos="">šautene</t>
        <t pos="">plinte</t>
      </tg>
@@ -88640,18 +86465,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">päiväpalkka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dienas izpeļņa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">päkiä</l>
      <stg> <st/>
      </stg>
@@ -88903,7 +86716,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">galvvidus</t>
        <t pos="">pauris</t>
        <t pos="">galvvidus</t>
      </tg>
@@ -89470,7 +87282,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">pļāpu runas</t>
        <t pos="">blēņas</t>
        <t pos="">pļāpas</t>
        <t pos="">muļķības</t>
@@ -89487,18 +87298,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">galda virsma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">pöydänjalat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">galda kājas</t>
      </tg>
    </mg>
 </e>
@@ -89703,7 +87502,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">zaļš koks</t>
        <t pos="">rāja</t>
      </tg>
    </mg>
@@ -89929,18 +87727,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">rahalähde</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">naudas avots</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">rahalähetys</l>
      <stg> <st/>
      </stg>
@@ -89972,7 +87758,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">švaki ar naudu</t>
        <t pos="">naudas trūkums</t>
      </tg>
    </mg>
@@ -90170,7 +87955,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">dzeņaukstes</t>
        <t pos="">dzeņaukste</t>
        <t pos="">groži</t>
      </tg>
@@ -91181,18 +88965,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">raparperilehdet</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rabarbera lapas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">rapistelu</l>
      <stg> <st/>
      </stg>
@@ -91450,18 +89222,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">rasvatahra</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tauku traips</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ratakisko</l>
      <stg> <st/>
      </stg>
@@ -91469,18 +89229,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sliede</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ratapölkyt</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">gulšņi</t>
      </tg>
    </mg>
 </e>
@@ -91795,18 +89543,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">rautalanka-aita</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">stiepļu žogs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">rautanaula</l>
      <stg> <st/>
      </stg>
@@ -91913,18 +89649,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">dzelzceļš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">rautatieasema</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dzelzceļa stacija</t>
      </tg>
    </mg>
 </e>
@@ -92041,30 +89765,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ravunpyynti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēžošana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ravustus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vēžošana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">reaalilyseo</l>
      <stg> <st/>
      </stg>
@@ -92145,19 +89845,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">godīgums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">rehtori</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">skolas vadītājs</t>
-       <t pos="">skolas pārzinis</t>
      </tg>
    </mg>
 </e>
@@ -92413,6 +90100,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">skranda</t>
+       <t pos="">lupata</t>
        <t pos="">skranda</t>
        <t pos="">lupata</t>
        <t pos="">skranda</t>
@@ -92785,18 +90474,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">zalktene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">riihenpuinti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rijas kulšana</t>
      </tg>
    </mg>
 </e>
@@ -93428,18 +91105,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">rintakipu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sāpes pakrūtē</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">rintakuva</l>
      <stg> <st/>
      </stg>
@@ -93569,6 +91234,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">grēksūdze</t>
+       <t pos="">bikts</t>
        <t pos="">grēksūdze</t>
        <t pos="">bikts</t>
      </tg>
@@ -93718,12 +91385,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĪNDÕR" pos="N">kreisõr</t>
-       <re>taistelualustyyppi</re>
-       </tCtn>
+   <mg> <defNative>taistelualustyyppi</defNative>
+     <tg xml:lang="lav">
+       <t pos="">kreiseris</t>
      </tg>
    </mg>
 </e>
@@ -93758,12 +91422,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KRUȚK " pos="N">rišt</t>
-       <re>korttipelissä</re>
-       </tCtn>
+   <mg> <defNative>korttipelissä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">kreicis</t>
      </tg>
    </mg>
 </e>
@@ -93789,6 +91450,8 @@
      <tg xml:lang="lav">
        <t pos="">restes</t>
        <t pos="">režģis</t>
+       <t pos="">restes</t>
+       <t pos="">režģis</t>
      </tg>
    </mg>
 </e>
@@ -93812,6 +91475,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vārds</t>
+       <t pos="">kristītais vārds</t>
        <t pos="">vārds</t>
        <t pos="">kristītais vārds</t>
      </tg>
@@ -94035,6 +91700,8 @@
        <t pos="">restes</t>
        <t pos="">režģis</t>
        <t pos="">restes</t>
+       <t pos="">režģis</t>
+       <t pos="">restes</t>
      </tg>
    </mg>
 </e>
@@ -94063,7 +91730,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">kāršu žogs</t>
        <t pos="">latu žogs</t>
      </tg>
    </mg>
@@ -94414,18 +92080,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">roskapuhe</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pļāpu runas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">roskat</l>
      <stg> <st/>
      </stg>
@@ -94449,30 +92103,6 @@
        <t pos="">laupītājs</t>
        <t pos="">burlaks</t>
        <t pos="">laupītājs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">rosvojoukko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">laupītāju banda</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">rotanloukku</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">žurku slazds</t>
      </tg>
    </mg>
 </e>
@@ -94520,12 +92150,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_SUʼG" pos="N">lūomõsuʼg</t>
-       <re>eläimistä</re>
-       </tCtn>
+   <mg> <defNative>eläimistä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">dzīvnieku suga</t>
      </tg>
    </mg>
 </e>
@@ -94609,18 +92236,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">rudzu pārsla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ruisjauho</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rudzu milti</t>
      </tg>
    </mg>
 </e>
@@ -95054,18 +92669,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ruoansulatushäiriö</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">gremošanas traucējums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ruoansulatuskanava</l>
      <stg> <st/>
      </stg>
@@ -95193,6 +92796,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">siena kušķis</t>
+       <t pos="">zāles kušķis</t>
+       <t pos="">siena kušķis</t>
+       <t pos="">zāles kušķis</t>
        <t pos="">siena kušķis</t>
        <t pos="">zāles kušķis</t>
      </tg>
@@ -95515,18 +93122,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ruokokatto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">niedru jumts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ruokosokeri</l>
      <stg> <st/>
      </stg>
@@ -95830,18 +93425,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ruuhi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vienkocis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ruukku</l>
      <stg> <st/>
      </stg>
@@ -96019,12 +93602,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IRM" pos="N">rūt</t>
-       <re>korttipelissä</re>
-       </tCtn>
+   <mg> <defNative>korttipelissä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">kāravs</t>
      </tg>
    </mg>
 </e>
@@ -96262,6 +93842,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">skranda</t>
+       <t pos="">lupata</t>
        <t pos="">skranda</t>
        <t pos="">lupata</t>
        <t pos="">skranda</t>
@@ -96548,6 +94130,8 @@
      <tg xml:lang="lav">
        <t pos="">skranda</t>
        <t pos="">lupata</t>
+       <t pos="">skranda</t>
+       <t pos="">lupata</t>
        <t pos="">ielāps</t>
      </tg>
    </mg>
@@ -96742,18 +94326,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">saapaspari</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zābaku pāris</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">saapasrenki</l>
      <stg> <st/>
      </stg>
@@ -96942,6 +94514,8 @@
      <tg xml:lang="lav">
        <t pos="">lādēšanās</t>
        <t pos="">lamāšanās</t>
+       <t pos="">lādēšanās</t>
+       <t pos="">gānīšanās</t>
        <t pos="">lādēšanās</t>
        <t pos="">gānīšanās</t>
      </tg>
@@ -97759,18 +95333,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sammakonkutu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">varžu ikri</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sammal</l>
      <stg> <st/>
      </stg>
@@ -97955,7 +95517,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">parastā ērgļpaparde</t>
        <t pos="">paparde</t>
      </tg>
    </mg>
@@ -98300,18 +95861,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">grīslis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">saraikko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">grīšļu purvs</t>
      </tg>
    </mg>
 </e>
@@ -98670,18 +96219,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">savikerros</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">māla slānis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">savikka</l>
      <stg> <st/>
      </stg>
@@ -98749,6 +96286,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">ekzēma</t>
+       <t pos="">ēde</t>
        <t pos="">ekzēma</t>
        <t pos="">ēde</t>
      </tg>
@@ -99888,12 +97427,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_MAKSĀ" pos="N">krețļā</t>
-       <re>viljan puhdistamiseksi</re>
-       </tCtn>
+   <mg> <defNative>viljan puhdistamiseksi</defNative>
+     <tg xml:lang="lav">
+       <t pos="">kretulis</t>
      </tg>
    </mg>
 </e>
@@ -100118,18 +97654,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sianpesä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">cūku midzenis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sianpuolukka</l>
      <stg> <st/>
      </stg>
@@ -100142,28 +97666,13 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sianruoka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">cūkēdiens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">siansorkka</l>
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KAND" pos="N">vīʼemõrsuoļm</t>
-       <re>solmu</re>
-       </tCtn>
+   <mg> <defNative>solmu</defNative>
+     <tg xml:lang="lav">
+       <t pos="">ilkss mezgls</t>
      </tg>
    </mg>
 </e>
@@ -100187,6 +97696,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">saite</t>
+       <t pos="">saikne</t>
        <t pos="">saite</t>
        <t pos="">saikne</t>
      </tg>
@@ -100285,7 +97796,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">endosperma graudam</t>
        <t pos="">endosperma</t>
      </tg>
    </mg>
@@ -100298,33 +97808,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav"/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sienestys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sēņošana</t>
-       <t pos="">iešana sēnēs</t>
-       <t pos="">sēņošana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sienestäminen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">iešana sēnēs</t>
-       <t pos="">sēņošana</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -100396,18 +97879,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sēnīšu slimība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sieniämpäri</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sēņu spainis</t>
      </tg>
    </mg>
 </e>
@@ -100582,18 +98053,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">siipikarjatalous</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">putnkopība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">siirappi</l>
      <stg> <st/>
      </stg>
@@ -100667,18 +98126,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">siitin</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vīrieša dzimumorgāns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">siivilä</l>
      <stg> <st/>
      </stg>
@@ -100723,6 +98170,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">vieta</t>
+       <t pos="">stāvoklis</t>
        <t pos="">vieta</t>
        <t pos="">stāvoklis</t>
        <t pos="">telpa</t>
@@ -100801,18 +98250,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">cūka</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sikakarsina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">cūku aizgalds</t>
      </tg>
    </mg>
 </e>
@@ -100910,18 +98347,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">cūkgans</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sikotarha</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">cūku aizgalds</t>
      </tg>
    </mg>
 </e>
@@ -101182,18 +98607,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sillankaiteet</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tilta margas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">silli</l>
      <stg> <st/>
      </stg>
@@ -101436,6 +98849,8 @@
      <tg xml:lang="lav">
        <t pos="">skropstas mats</t>
        <t pos="">skropsta</t>
+       <t pos="">skropstas mats</t>
+       <t pos="">skropsta</t>
      </tg>
    </mg>
 </e>
@@ -101661,25 +99076,12 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sininärhi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zaļā vārna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sinisavi</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">zilais māls</t>
        <t pos="">glūda</t>
        <t pos="">zilie māli</t>
      </tg>
@@ -101878,18 +99280,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">sirpis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sirppimailanen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dzeltenā lucerna</t>
      </tg>
    </mg>
 </e>
@@ -102298,18 +99688,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sisäturkki</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">plikādas kažoks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sisäänkäynti</l>
      <stg> <st/>
      </stg>
@@ -102389,12 +99767,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KǬRAND" pos="N">tsitron</t>
-       <re>hedelmä</re>
-       </tCtn>
+   <mg> <defNative>hedelmä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">citrons</t>
      </tg>
    </mg>
 </e>
@@ -102404,12 +99779,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KǬRAND" pos="N">tsitrōn</t>
-       <re>hedelmä</re>
-       </tCtn>
+   <mg> <defNative>hedelmä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">citrons</t>
      </tg>
    </mg>
 </e>
@@ -102419,12 +99791,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PŪ" pos="N">tsitronpū</t>
-       <re>puu</re>
-       </tCtn>
+   <mg> <defNative>puu</defNative>
+     <tg xml:lang="lav">
+       <t pos="">citronkoks</t>
      </tg>
    </mg>
 </e>
@@ -102434,12 +99803,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PŪ" pos="N">tsitrōnpū</t>
-       <re>puu</re>
-       </tCtn>
+   <mg> <defNative>puu</defNative>
+     <tg xml:lang="lav">
+       <t pos="">citronkoks</t>
      </tg>
    </mg>
 </e>
@@ -102723,38 +100089,12 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sivuasia</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">blakus lieta</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sivuhuone</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">blakus istaba</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sivujoki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">upes pieteka</t>
-       <t pos="">upes atteka</t>
        <t pos="">pieteka</t>
      </tg>
    </mg>
@@ -103264,19 +100604,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sokkopaarma</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aklenis</t>
-       <t pos="">lietene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">solina</l>
      <stg> <st/>
      </stg>
@@ -103534,18 +100861,6 @@
      <tg xml:lang="lav">
        <t pos="">grants</t>
        <t pos="">zvirgzds</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">soratie</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">grantains ceļš</t>
      </tg>
    </mg>
 </e>
@@ -103899,11 +101214,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>korttipelissä</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ARĀGÕZ" pos="N">polākõz</t>
-       <re>korttipelissä</re>
+       <t pos="">kalps</t>
+       <re>kāršu spēlē</re>
        </tCtn>
      </tg>
    </mg>
@@ -103930,6 +101245,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">karalauks</t>
+       <t pos="">kaujaslauks</t>
        <t pos="">karalauks</t>
        <t pos="">kaujaslauks</t>
      </tg>
@@ -104021,18 +101338,6 @@
        <t pos="">karavīrs</t>
        <t pos="">kareivis</t>
        <t pos="">zaldāts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sotilasarvo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dienesta pakāpe</t>
      </tg>
    </mg>
 </e>
@@ -104156,6 +101461,8 @@
        <t pos="">mobilā aplikācija</t>
        <t pos="">risinājums</t>
        <t pos="">pielāgojums</t>
+       <t pos="">risinājums</t>
+       <t pos="">pielāgojums</t>
      </tg>
    </mg>
 </e>
@@ -104167,6 +101474,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">risinājums</t>
+       <t pos="">pielāgojums</t>
        <t pos="">risinājums</t>
        <t pos="">pielāgojums</t>
      </tg>
@@ -104578,23 +101887,10 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">zirga suka</t>
        <t pos="">zirga ķemme</t>
        <t pos="">zirga suka</t>
        <t pos="">zirga suseklis</t>
        <t pos="">suseklis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sukanterä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zeķes pēda</t>
      </tg>
    </mg>
 </e>
@@ -104624,18 +101920,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sukellusvene</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zemūdene</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sukeltaja</l>
      <stg> <st/>
      </stg>
@@ -104655,18 +101939,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">zeķe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sukkaneuloja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zeķu adītājs</t>
      </tg>
    </mg>
 </e>
@@ -106175,6 +103447,8 @@
        <t pos="">virziens</t>
        <t pos="">puse</t>
        <t pos="">virziens</t>
+       <t pos="">puse</t>
+       <t pos="">virziens</t>
      </tg>
    </mg>
 </e>
@@ -106407,13 +103681,24 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">dakts</t>
        <t pos="">deglis</t>
        <t pos="">sirds</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">sydän</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>sielu</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_SIDĀM" pos="N">sidām</t>
-       <re>sielu</re>
+       <t pos="">sirds</t>
+       <re>dvēsele</re>
        </tCtn>
      </tg>
    </mg>
@@ -106450,7 +103735,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">sirds priekškambaris</t>
        <t pos="">sirds kambaris</t>
      </tg>
    </mg>
@@ -106469,18 +103753,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sydänkammio</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds kambaris</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sydänkesä</l>
      <stg> <st/>
      </stg>
@@ -106488,18 +103760,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">vasaras vidus</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sydänkorvake</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds austiņa</t>
      </tg>
    </mg>
 </e>
@@ -106518,42 +103778,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">sydänlihas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds muskulis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sydänlihastulehdus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds muskuļu iekaisums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sydänläppä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds vārstulis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">sydänmaa</l>
      <stg> <st/>
      </stg>
@@ -106561,18 +103785,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">meža nostūris</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">sydänpussi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">sirds somiņa</t>
      </tg>
    </mg>
 </e>
@@ -106752,12 +103964,20 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">klēpis</t>
-       <tCtn>
-       <t Contlex="N_TUʼĻ" pos="N">siʼļ</t>
-       <re>pituusmitta</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">syli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>pituusmitta</defNative>
+     <tg xml:lang="lav">
+       <t pos="">ass</t>
      </tg>
    </mg>
 </e>
@@ -107573,7 +104793,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">ļaundabīgs audzējs</t>
        <t pos="">audzējs</t>
        <t pos="">ļaundabīgs audzējs</t>
        <t pos="">vēzis</t>
@@ -107666,6 +104885,10 @@
      <tg xml:lang="lav">
        <t pos="">zebenieks</t>
        <t pos="">siena maiss</t>
+       <t pos="">zebenieks</t>
+       <t pos="">siena maiss</t>
+       <t pos="">zebenieks</t>
+       <t pos="">siena maiss</t>
      </tg>
    </mg>
 </e>
@@ -107688,12 +104911,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_TŪOITÕG" pos="N">rādius</t>
-       <re>geometria</re>
-       </tCtn>
+   <mg> <defNative>geometria</defNative>
+     <tg xml:lang="lav">
+       <t pos="">rādiuss</t>
      </tg>
    </mg>
 </e>
@@ -108162,6 +105382,8 @@
      <tg xml:lang="lav">
        <t pos="">vītne</t>
        <t pos="">vijums</t>
+       <t pos="">vītne</t>
+       <t pos="">vijums</t>
      </tg>
    </mg>
 </e>
@@ -108369,6 +105591,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">restes</t>
+       <t pos="">režģis</t>
        <t pos="">restes</t>
        <t pos="">režģis</t>
      </tg>
@@ -108723,7 +105947,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">lielais liela kauls</t>
        <t pos="">liela kauls</t>
      </tg>
    </mg>
@@ -108908,18 +106131,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">tecīla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tahkokivi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tecīlas ripa</t>
      </tg>
    </mg>
 </e>
@@ -109273,6 +106484,8 @@
      <tg xml:lang="lav">
        <t pos="">karalauks</t>
        <t pos="">kaujaslauks</t>
+       <t pos="">karalauks</t>
+       <t pos="">kaujaslauks</t>
      </tg>
    </mg>
 </e>
@@ -109490,18 +106703,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">taka-ajatukset</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">slepenas domas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">takaa-ajo</l>
      <stg> <st/>
      </stg>
@@ -109588,18 +106789,6 @@
        <t pos="">dibens</t>
        <t pos="">pakaļgals</t>
        <t pos="">sēžamvieta</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">takapyörä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aizmugurējais ritenis</t>
      </tg>
    </mg>
 </e>
@@ -109715,18 +106904,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">takkikangas</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">jakas drēbe</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">taksa</l>
      <stg> <st/>
      </stg>
@@ -109833,6 +107010,8 @@
      <tg xml:lang="lav">
        <t pos="">pūtelis</t>
        <t pos="">kama</t>
+       <t pos="">pūtelis</t>
+       <t pos="">kama</t>
      </tg>
    </mg>
 </e>
@@ -109844,6 +107023,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">pūteļa milti</t>
+       <t pos="">kamas milti</t>
        <t pos="">pūteļa milti</t>
        <t pos="">kamas milti</t>
      </tg>
@@ -109987,15 +107168,30 @@
 </e>
 <e>
    <lg>
+     <l pos="">talon tytär</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>talon nsisomistajan tytär</defNative>
+     <tg xml:lang="lav">
+       <tCtn>
+       <t pos="">saimniekmeita</t>
+       <re>saimnieces meita</re>
+       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">talon tytär</l>
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>talon miesomistajan tytär</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_TIDĀR" pos="N">perīmīʼetidār</t>
-       <re>talon miesomistajan tytär</re>
+       <t pos="">saimniekmeita</t>
+       <re>saimnieka meita</re>
        </tCtn>
      </tg>
    </mg>
@@ -110083,6 +107279,8 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">saime</t>
+       <t pos="">saimes ļaudis</t>
+       <t pos="">mājas saime</t>
        <t pos="">saimes ļaudis</t>
        <t pos="">mājas saime</t>
        <t pos="">saimes ļaudis</t>
@@ -110263,18 +107461,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">talviaika</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ziemas laiks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">talvikki</l>
      <stg> <st/>
      </stg>
@@ -110414,7 +107600,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">janvāra mēnesis</t>
        <t pos="">janvāris</t>
      </tg>
    </mg>
@@ -110640,6 +107825,8 @@
        <t pos="">atgadījums</t>
        <t pos="">gadījums</t>
        <t pos="">notikums</t>
+       <t pos="">gadījums</t>
+       <t pos="">notikums</t>
      </tg>
    </mg>
 </e>
@@ -110653,6 +107840,8 @@
      <tg xml:lang="lav">
        <t pos="">gadījums</t>
        <t pos="">atgadījums</t>
+       <t pos="">gadījums</t>
+       <t pos="">notikums</t>
        <t pos="">gadījums</t>
        <t pos="">notikums</t>
      </tg>
@@ -110918,7 +108107,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">lipīga slimība</t>
        <t pos="">infekciju slimība</t>
      </tg>
    </mg>
@@ -111472,18 +108660,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">teatteriesitys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">teātra izrāde</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">teatterikerho</l>
      <stg> <st/>
      </stg>
@@ -111671,18 +108847,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">elektriskā tējkanna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">teennäisyys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">liekulība</t>
      </tg>
    </mg>
 </e>
@@ -112287,18 +109451,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">tervaleppä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">melnalksnis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">tervapääsky</l>
      <stg> <st/>
      </stg>
@@ -112409,18 +109561,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">teräase</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">rīks griešanai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">terälehti</l>
      <stg> <st/>
      </stg>
@@ -112523,11 +109663,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">testaments</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">testamentti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>raamatun osa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_ĀIGAST" pos="N">testament</t>
-       <re>raamatun osa</re>
+       <t pos="">derība</t>
+       <re>bībelē</re>
        </tCtn>
      </tg>
    </mg>
@@ -112541,18 +109692,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">gaļas lops</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">teuraslampaat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kaujamās aitas</t>
      </tg>
    </mg>
 </e>
@@ -112620,18 +109759,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">tiedeakatemia</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zinātņu akadēmija</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">tiedekunta</l>
      <stg> <st/>
      </stg>
@@ -112694,18 +109821,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">tiedustelukone</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">izlūklidmašīna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">tiekartta</l>
      <stg> <st/>
      </stg>
@@ -112737,31 +109852,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">ceļa gājējs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tienhaara</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ceļa sazarojums</t>
-       <t pos="">ceļu sazarojums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tienmutka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">ceļa līkums</t>
      </tg>
    </mg>
 </e>
@@ -112985,6 +110075,8 @@
      <tg xml:lang="lav">
        <t pos="">smalks lietus</t>
        <t pos="">smidzināšana</t>
+       <t pos="">smalks lietus</t>
+       <t pos="">smidzināšana</t>
      </tg>
    </mg>
 </e>
@@ -113080,12 +110172,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_IRM" pos="N">drīv</t>
-       <re>laivat, veneet</re>
-       </tCtn>
+   <mg> <defNative>laivat, veneet</defNative>
+     <tg xml:lang="lav">
+       <t pos="">dreifs</t>
      </tg>
    </mg>
 </e>
@@ -113121,12 +110210,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PŪʼDÕZ" pos="N">ēʼņõz</t>
-       <re>lintu</re>
-       </tCtn>
+   <mg> <defNative>lintu</defNative>
+     <tg xml:lang="lav">
+       <t pos="">dzenis</t>
      </tg>
    </mg>
 </e>
@@ -113190,6 +110276,8 @@
      <tg xml:lang="lav">
        <t pos="">vieta</t>
        <t pos="">stāvoklis</t>
+       <t pos="">vieta</t>
+       <t pos="">stāvoklis</t>
        <t pos="">telpa</t>
        <t pos="">vieta</t>
        <t pos="">rūme</t>
@@ -113230,6 +110318,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">pažobele</t>
+       <t pos="">pajumte</t>
        <t pos="">pažobele</t>
        <t pos="">pajumte</t>
      </tg>
@@ -113334,6 +110424,10 @@
      <tg xml:lang="lav">
        <t pos="">piliens</t>
        <t pos="">lāse</t>
+       <t pos="">piliens</t>
+       <t pos="">lāse</t>
+       <t pos="">piliens</t>
+       <t pos="">lāse</t>
      </tg>
    </mg>
 </e>
@@ -113423,6 +110517,9 @@
        <t pos="">kuģa galdnieks</t>
        <t pos="">namdaris</t>
        <t pos="">cimermanis</t>
+       <t pos="">kuģa galdnieks</t>
+       <t pos="">namdaris</t>
+       <t pos="">cimermanis</t>
      </tg>
    </mg>
 </e>
@@ -113436,18 +110533,6 @@
      <tg xml:lang="lav">
        <t pos="">alva</t>
        <t pos="">svins</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">tinariippulukko</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">alvas piekaramā slēdzene</t>
      </tg>
    </mg>
 </e>
@@ -114224,6 +111309,8 @@
      <tg xml:lang="lav">
        <t pos="">ieradums</t>
        <t pos="">paradums</t>
+       <t pos="">ieradums</t>
+       <t pos="">paradums</t>
      </tg>
    </mg>
 </e>
@@ -114309,18 +111396,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">traktors</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">transitiiviverbi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">transitīvs darbības vārds</t>
      </tg>
    </mg>
 </e>
@@ -115923,18 +112998,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">turvealusta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kūdrzeme</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">turvekenttä</l>
      <stg> <st/>
      </stg>
@@ -116002,6 +113065,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">pētīšana</t>
+       <t pos="">pētniecība</t>
        <t pos="">pētīšana</t>
        <t pos="">pētniecība</t>
      </tg>
@@ -116415,13 +113480,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">stumbenis</t>
        <t pos="">strupulis</t>
-       <tCtn>
-       <t Contlex="N_KAND" pos="N">tink</t>
-       <re>oksan-, puun-</re>
-       </tCtn>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">tynkä</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>oksan-, puun-</defNative>
+     <tg xml:lang="lav">
+       <t pos="">stumbenis</t>
+       <t pos="">rugājs</t>
      </tg>
    </mg>
 </e>
@@ -116727,18 +113801,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">darba darīšanas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">työhevonen</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">darba zirgs</t>
      </tg>
    </mg>
 </e>
@@ -117317,11 +114379,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>määrä</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_TÄUŽ" pos="N">täuž</t>
-       <re>määrä</re>
+       <t pos="">pilns</t>
+       <re>daudzums</re>
        </tCtn>
      </tg>
    </mg>
@@ -117364,18 +114426,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">täysikuu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pilns mēness</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">täysistunto</l>
      <stg> <st/>
      </stg>
@@ -117384,18 +114434,6 @@
      <tg xml:lang="lav">
        <t pos="">pilnsapulce</t>
        <t pos="">kopsapulce</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">täysveli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">miesīgs brālis</t>
      </tg>
    </mg>
 </e>
@@ -117490,11 +114528,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>sudesta</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_TIDĀR" pos="N">deldabār</t>
-       <re>sudesta</re>
+       <t pos="">strupaste</t>
+       <re>vilks</re>
        </tCtn>
      </tg>
    </mg>
@@ -117813,18 +114851,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ulkokultaisuus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">liekulība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ulkokäymälä</l>
      <stg> <st/>
      </stg>
@@ -117857,18 +114883,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">svešzemnieks</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ulkomuseo</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">brīvdabas muzejs</t>
      </tg>
    </mg>
 </e>
@@ -117933,6 +114947,8 @@
        <t pos="">jumtaugša</t>
        <t pos="">pažobele</t>
        <t pos="">jumtaugša</t>
+       <t pos="">bēniņi</t>
+       <t pos="">istabaugša</t>
        <t pos="">bēniņi</t>
        <t pos="">istabaugša</t>
        <t pos="">bēniņi</t>
@@ -118040,18 +115056,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">umpikuja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">strupceļš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">umpilisäke</l>
      <stg> <st/>
      </stg>
@@ -118059,18 +115063,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">aklā zarna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">umpisuolentulehdus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">aklās zarnas iekaisums</t>
      </tg>
    </mg>
 </e>
@@ -118243,18 +115235,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">dūnas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">untuvatyyny</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dūnu spilvens</t>
      </tg>
    </mg>
 </e>
@@ -118609,18 +115589,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">urossusi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vilku tēviņš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">uroteko</l>
      <stg> <st/>
      </stg>
@@ -118742,18 +115710,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">uudenvuodenaatto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">Vecgada vakars</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">uudistus</l>
      <stg> <st/>
      </stg>
@@ -118761,18 +115717,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">reforma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">uudisviljelijä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">jaunsaimnieks</t>
      </tg>
    </mg>
 </e>
@@ -118834,18 +115778,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">krāsns klons</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">uuninsuu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">krāsns mute</t>
      </tg>
    </mg>
 </e>
@@ -118926,18 +115858,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">uusivuosi</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">Jaungads</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">uusklassismi</l>
      <stg> <st/>
      </stg>
@@ -118957,19 +115877,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">ekstrakts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">uutisvilja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">pirmie augļi</t>
-       <t pos="">jaunā raža</t>
      </tg>
    </mg>
 </e>
@@ -119115,18 +116022,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">briesmas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vaateaitta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">drēbju klēts</t>
      </tg>
    </mg>
 </e>
@@ -119792,12 +116687,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KEP" pos="N">dek</t>
-       <re>vaatekappale</re>
-       </tCtn>
+   <mg> <defNative>vaatekappale</defNative>
+     <tg xml:lang="lav">
+       <t pos="">villaine</t>
      </tg>
    </mg>
 </e>
@@ -119807,12 +116699,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_TŪĻI" pos="N">villi</t>
-       <re>vaatekappale</re>
-       </tCtn>
+   <mg> <defNative>vaatekappale</defNative>
+     <tg xml:lang="lav">
+       <t pos="">villaine</t>
      </tg>
    </mg>
 </e>
@@ -119822,12 +116711,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KǬRAND" pos="N">villikrīzdag</t>
-       <re>vaatekappale</re>
-       </tCtn>
+   <mg> <defNative>vaatekappale</defNative>
+     <tg xml:lang="lav">
+       <t pos="">villaine</t>
      </tg>
    </mg>
 </e>
@@ -119981,6 +116867,8 @@
      <tg xml:lang="lav">
        <t pos="">dobe</t>
        <t pos="">vaga</t>
+       <t pos="">dobe</t>
+       <t pos="">vaga</t>
      </tg>
    </mg>
 </e>
@@ -120006,19 +116894,6 @@
      <tg xml:lang="lav">
        <t pos="">slepens noklausītājs</t>
        <t pos="">spiegs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vakoväli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vagu atstarpe</t>
-       <t pos="">atstarpe starp vagām</t>
      </tg>
    </mg>
 </e>
@@ -120123,18 +116998,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">valeakaasia</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baltā akācija</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">valehtelija</l>
      <stg> <st/>
      </stg>
@@ -120156,18 +117019,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">baldriāns</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">valeriaanatipat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baldriāna pilieni</t>
      </tg>
    </mg>
 </e>
@@ -120325,30 +117176,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">valkoapila</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baltais āboliņš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">valkoherukka</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baltā jāņoga</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">valkohomejuusto</l>
      <stg> <st/>
      </stg>
@@ -120361,24 +117188,14 @@
 </e>
 <e>
    <lg>
-     <l pos="N">valkokärpässieni</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baltā mušmire</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">valkolehdokki</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">dzegužpuķe</t>
+       <t pos="">smaržīgā naktsvijole</t>
        <t pos="">dzegužpuķe</t>
        <t pos="">smaržīgā naktsvijole</t>
      </tg>
@@ -120514,18 +117331,6 @@
      <tg xml:lang="lav">
        <t pos="">vizbulis</t>
        <t pos="">baltais vizbulis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">valkovuoto</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">baltie izdalījumi</t>
      </tg>
    </mg>
 </e>
@@ -120757,6 +117562,8 @@
        <t pos="">vara</t>
        <t pos="">patvaļa</t>
        <t pos="">vara</t>
+       <t pos="">patvaļa</t>
+       <t pos="">vara</t>
      </tg>
    </mg>
 </e>
@@ -120857,6 +117664,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">valststiesības</t>
+       <t pos="">valsts tiesības</t>
        <t pos="">valststiesības</t>
        <t pos="">valsts tiesības</t>
      </tg>
@@ -121227,18 +118036,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">vanhuuseläke</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vecuma pensija</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">vanilja</l>
      <stg> <st/>
      </stg>
@@ -121379,18 +118176,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">vate</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vapaa-aika</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">brīvs laiks</t>
      </tg>
    </mg>
 </e>
@@ -121568,30 +118353,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">varaskopla</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zagļu banda</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">varasliiga</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zagļu banda</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">varastamishimo</l>
      <stg> <st/>
      </stg>
@@ -121680,18 +118441,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">varhaisaamu</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">agrs rīts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">varhaishistoria</l>
      <stg> <st/>
      </stg>
@@ -121699,18 +118448,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">senvēsture</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">varhaiskevät</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">agrīns pavasaris</t>
      </tg>
    </mg>
 </e>
@@ -121808,6 +118545,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">brīdinājums</t>
+       <t pos="">piekodinājums</t>
        <t pos="">brīdinājums</t>
        <t pos="">piekodinājums</t>
      </tg>
@@ -122157,18 +118896,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">teļš</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vasikkakarsina</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">teļu aizgalds</t>
      </tg>
    </mg>
 </e>
@@ -122667,6 +119394,8 @@
      <tg xml:lang="lav">
        <t pos="">ratnīca</t>
        <t pos="">vāgūzis</t>
+       <t pos="">ratnīca</t>
+       <t pos="">vāgūzis</t>
      </tg>
    </mg>
 </e>
@@ -122801,18 +119530,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kviešu pārsla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vehnäjauho</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kviešu milti</t>
      </tg>
    </mg>
 </e>
@@ -123872,18 +120589,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">verkonkutoja</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tīklu audējs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">vernissa</l>
      <stg> <st/>
      </stg>
@@ -123902,8 +120607,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">īpaša maksa</t>
-       <t pos="">nodoklis</t>
        <t pos="">nodeva</t>
        <t pos="">nodoklis</t>
        <t pos="">mesli</t>
@@ -124419,18 +121122,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">vetohihnat</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">groži</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">vetolaatikko</l>
      <stg> <st/>
      </stg>
@@ -124575,11 +121266,22 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">eksports</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">vienti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>kirjanpidossa</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_AʼBLI" pos="N">kēraltimi</t>
-       <re>kirjanpidossa</re>
+       <t pos="">ierakstīšana</t>
+       <re>grāmatvedībā</re>
        </tCtn>
      </tg>
    </mg>
@@ -124808,18 +121510,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">viherhome</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">zaļais pelējums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">viherminttu</l>
      <stg> <st/>
      </stg>
@@ -124887,18 +121577,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">laulāšana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vihma</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">smalks lietus</t>
      </tg>
    </mg>
 </e>
@@ -125109,18 +121787,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">viikonpäivä</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">nedēļas diena</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">viikset</l>
      <stg> <st/>
      </stg>
@@ -125137,12 +121803,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_PŪ" pos="N">vīgõdpū</t>
-       <re>puu</re>
-       </tCtn>
+   <mg> <defNative>puu</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vīģeskoks</t>
      </tg>
    </mg>
 </e>
@@ -125152,12 +121815,9 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_JǬRA" pos="N">vīgõmǭŗa</t>
-       <re>hedelmä</re>
-       </tCtn>
+   <mg> <defNative>hedelmä</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vīģe</t>
      </tg>
    </mg>
 </e>
@@ -125568,18 +122228,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">vilja-aitta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">labības klēts</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">viljakarhe</l>
      <stg> <st/>
      </stg>
@@ -125686,7 +122334,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">rijas kulšana</t>
        <t pos="">kulšana</t>
        <t pos="">labības kulšana</t>
      </tg>
@@ -125801,18 +122448,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">vilna</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">villakarsta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">vilnas kārstuve</t>
      </tg>
    </mg>
 </e>
@@ -126105,7 +122740,7 @@
      </stg>
    </lg>
    <mg>
-     <tg xml:lang="liv">
+     <tg xml:lang="lav">
        <t pos="">bēniņi</t>
        <t pos="">pažobele</t>
        <t pos="">jumtaugša</t>
@@ -126114,10 +122749,20 @@
        <t pos="">bēniņi</t>
        <t pos="">istabaugša</t>
        <t pos="">bēniņi</t>
-       <tCtn>
-       <t Contlex="N_ĀITA" pos="N">vīnda</t>
-       <re>kaivon</re>
-       </tCtn>
+       <t pos="">istabaugša</t>
+       <t pos="">bēniņi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">vintti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg> <defNative>kaivon</defNative>
+     <tg xml:lang="lav">
+       <t pos="">vinda</t>
      </tg>
    </mg>
 </e>
@@ -126166,18 +122811,6 @@
      <tg xml:lang="lav">
        <t pos="">kļūda</t>
        <t pos="">vaina</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">virka-asema</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">dienesta pakāpe</t>
      </tg>
    </mg>
 </e>
@@ -126250,18 +122883,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">vīķi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">virnistys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">grimase</t>
      </tg>
    </mg>
 </e>
@@ -126698,6 +123319,8 @@
      <tg xml:lang="lav">
        <t pos="">cūkpiene</t>
        <t pos="">pienene</t>
+       <t pos="">cūkpiene</t>
+       <t pos="">pienene</t>
      </tg>
    </mg>
 </e>
@@ -126815,6 +123438,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">peļņa</t>
+       <t pos="">izpeļņa</t>
        <t pos="">peļņa</t>
        <t pos="">izpeļņa</t>
        <t pos="">uzvara</t>
@@ -127089,12 +123714,10 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
-       <tCtn>
-       <t Contlex="N_KĪNDÕR" pos="N">ūoḑõr</t>
-       <re>vaatteiden sisäkangas</re>
-       </tCtn>
+   <mg> <defNative>vaatteiden sisäkangas</defNative>
+     <tg xml:lang="lav">
+       <t pos="">odere</t>
+       <t pos="">padrēbe</t>
      </tg>
    </mg>
 </e>
@@ -127245,18 +123868,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">gada izpeļņa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">vuosikertomus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">gada pārskats</t>
      </tg>
    </mg>
 </e>
@@ -127440,30 +124051,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">väestölaskenta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tautas skaitīšana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">väestönlaskenta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">tautas skaitīšana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">väestötiede</l>
      <stg> <st/>
      </stg>
@@ -127582,6 +124169,8 @@
        <t pos="">mazasinība</t>
        <t pos="">anēmija</t>
        <t pos="">mazasinība</t>
+       <t pos="">anēmija</t>
+       <t pos="">mazasinība</t>
      </tg>
    </mg>
 </e>
@@ -127635,6 +124224,8 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
+       <t pos="">ļaudis</t>
+       <t pos="">cilvēki</t>
        <t pos="">ļaudis</t>
        <t pos="">cilvēki</t>
      </tg>
@@ -128051,7 +124642,6 @@
    </lg>
    <mg>
      <tg xml:lang="lav">
-       <t pos="">baltā cielava</t>
        <t pos="">cielava</t>
      </tg>
    </mg>
@@ -128287,6 +124877,16 @@
 </e>
 <e>
    <lg>
+     <l pos="N">yhden litran astia</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="lav"/>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">yhden perheen talo</l>
      <stg> <st/>
      </stg>
@@ -128391,18 +124991,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">kopdzīve</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">yhteishauta</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">kopīgs kaps</t>
      </tg>
    </mg>
 </e>
@@ -128529,6 +125117,8 @@
        <t pos="">saskarsme</t>
        <t pos="">sakars</t>
        <t pos="">sakarība</t>
+       <t pos="">saite</t>
+       <t pos="">saikne</t>
        <t pos="">saite</t>
        <t pos="">saikne</t>
        <t pos="">sakari</t>
@@ -128805,6 +125395,8 @@
      <tg xml:lang="lav">
        <t pos="">augstskola</t>
        <t pos="">universitāte</t>
+       <t pos="">augstskola</t>
+       <t pos="">universitāte</t>
      </tg>
    </mg>
 </e>
@@ -128871,18 +125463,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ylähuuli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">augšlūpa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">yläleukaluu</l>
      <stg> <st/>
      </stg>
@@ -128890,18 +125470,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">augšžoklis</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">yläpuoli</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">augšpuse</t>
      </tg>
    </mg>
 </e>
@@ -129379,30 +125947,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">äidinmaito</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mātes piens</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">äidinrakkaus</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">mātes mīlestība</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">äidinäidin veli</l>
      <stg> <st/>
      </stg>
@@ -129461,9 +126005,6 @@
      <tg xml:lang="lav">
        <t pos="">māte</t>
      </tg>
-     <xg><x>äitini</x>
-       <xt>mana māte</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -129513,6 +126054,7 @@
        <t pos="">saprāts</t>
        <t pos="">prāts</t>
        <t pos="">uzskats</t>
+       <t pos="">saprāts</t>
        <t pos="">intelekts</t>
      </tg>
    </mg>
@@ -129603,18 +126145,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">äreys</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">īgnums</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ässä</l>
      <stg> <st/>
      </stg>
@@ -129655,11 +126185,11 @@
      <stg> <st/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="liv">
+   <mg> <defNative>haukkumasana</defNative>
+     <tg xml:lang="lav">
        <tCtn>
-       <t Contlex="N_IRM" pos="N">krǭig</t>
-       <re>haukkumasana</re>
+       <t pos="">kraķis</t>
+       <re>apsauka</re>
        </tCtn>
      </tg>
    </mg>
@@ -129748,18 +126278,6 @@
    <mg>
      <tg xml:lang="lav">
        <t pos="">balsstiesības</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">äänirako</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="lav">
-       <t pos="">balsenes sprauga</t>
      </tg>
    </mg>
 </e>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
 <e>
    <lg>
-     <l pos="Num">ensimmäinen</l>
+     <l pos="Det">ensimmäinen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -62,7 +72,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdeksas</l>
+     <l pos="Det">kahdeksas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -74,7 +84,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdeksaskymmenes</l>
+     <l pos="Det">kahdeksaskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -86,7 +96,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdeksassadas</l>
+     <l pos="Det">kahdeksassadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -98,7 +108,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdeksastoista</l>
+     <l pos="Det">kahdeksastoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -110,7 +120,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdeskymmenes</l>
+     <l pos="Det">kahdeskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -122,7 +132,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdessadas</l>
+     <l pos="Det">kahdessadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -134,7 +144,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kahdestoista</l>
+     <l pos="Det">kahdestoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -194,7 +204,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kolmas</l>
+     <l pos="Det">kolmas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -206,7 +216,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kolmaskymmenes</l>
+     <l pos="Det">kolmaskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -218,7 +228,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kolmassadas</l>
+     <l pos="Det">kolmassadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -230,7 +240,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kolmastoista</l>
+     <l pos="Det">kolmastoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -290,7 +300,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kuinka mones</l>
+     <l pos="Det">kuinka mones</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -302,7 +312,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kuudes</l>
+     <l pos="Det">kuudes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -314,7 +324,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kuudeskymmenes</l>
+     <l pos="Det">kuudeskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -326,7 +336,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kuudessadas</l>
+     <l pos="Det">kuudessadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -338,7 +348,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kuudestoista</l>
+     <l pos="Det">kuudestoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -410,7 +420,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kymmenes</l>
+     <l pos="Det">kymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -422,7 +432,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">kymmenesosa</l>
+     <l pos="N">kymmenesosa</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -482,7 +492,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">monesko</l>
+     <l pos="Det">monesko</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -542,7 +552,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">neljännes</l>
+     <l pos="N">neljännes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -554,7 +564,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">neljäs</l>
+     <l pos="Det">neljäs</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -578,7 +588,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">neljäskymmenes</l>
+     <l pos="Det">neljäskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -590,7 +600,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">neljässadas</l>
+     <l pos="Det">neljässadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -602,7 +612,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">neljästoista</l>
+     <l pos="Det">neljästoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -662,7 +672,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">sadas</l>
+     <l pos="Det">sadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -734,7 +744,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">seitsemäs</l>
+     <l pos="Det">seitsemäs</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -746,7 +756,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">seitsemäskymmenes</l>
+     <l pos="Det">seitsemäskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -758,7 +768,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">seitsemässadas</l>
+     <l pos="Det">seitsemässadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -770,7 +780,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">seitsemästoista</l>
+     <l pos="Det">seitsemästoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -782,7 +792,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">toinen</l>
+     <l pos="Det">toinen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -795,7 +805,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">tuhannes</l>
+     <l pos="Det">tuhannes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -831,7 +841,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">viides</l>
+     <l pos="Det">viides</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -843,7 +853,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">viideskymmenes</l>
+     <l pos="Det">viideskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -855,7 +865,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">viidessadas</l>
+     <l pos="Det">viidessadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -867,7 +877,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">viidestoista</l>
+     <l pos="Det">viidestoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -987,7 +997,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">yhdeksäs</l>
+     <l pos="Det">yhdeksäs</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -999,7 +1009,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">yhdeksäskymmenes</l>
+     <l pos="Det">yhdeksäskymmenes</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1011,7 +1021,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">yhdeksässadas</l>
+     <l pos="Det">yhdeksässadas</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1023,7 +1033,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">yhdeksästoista</l>
+     <l pos="Det">yhdeksästoista</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1035,7 +1045,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">yhdestoista</l>
+     <l pos="Det">yhdestoista</l>
      <stg> <st/>
      </stg>
    </lg>
